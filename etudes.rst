@@ -31,6 +31,21 @@ Quelles sont les périodes de stage ?
     - Le stage de fin d'études, commençant en février l'année de l'ING3 et
       durant lui 5 à 6 mois.
 
+Où est disponible mon emploi du temps ?
+    EPITA utilise l'application Chronos pour gérer les emplois du temps de
+    toutes les classes et toutes les promotions. Vous pouvez accèder à Chronos
+    à l'URL suivante : http://chronos.epita.net/
+
+    Pour trouver votre emploi du temps sur Chronos, parcourez l'arbre à gauche
+    de la page, en commençant par aller dans *Trainees* puis *EPITA*.
+
+    Chronos étant assez peu pratique (vous le découvrirez bien vite...), des
+    étudiants ont créés de nombreuses applications permettant de consulter son
+    emploi du temps plus facilement. Vous pouvez par exemple utiliser
+    l'application Epilife [1]_ sur votre téléphone Android.
+
+.. [1] https://play.google.com/store/apps/details?id=com.iiie.epilife&hl=en
+
 Cycle préparatoire (SUP/SPÉ)
 ----------------------------
 
