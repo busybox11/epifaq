@@ -46,7 +46,6 @@ Qu'est-ce que ...
     vous installer un autre OS si vous le souhaitez.
 
 ... le dump ?
-
     C'est le nom donné au contenu par défaut du disque du rack. Si vous n'avez
     rien modifié à votre rack, vous utilisez normalement un des 3 systèmes
     présent sur le dump du bocal. Ce dump change tous les ans - pour l'année
