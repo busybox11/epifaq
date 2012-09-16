@@ -1,0 +1,102 @@
+Parc Informatique de l'EPITA
+============================
+
+Qu'est-ce que ...
+-----------------
+
+**... le bocal ?**
+
+    Ce sont les administrateurs système de l'école, dont le rôle est de
+    maintenir le parc informatique des écoles du groupe IONIS en état de
+    fonctionnement. À quelques exceptions près, les membres du bocal
+    (*bocaliens*) sont des étudiants d'EPITECH travaillant au bocal à mi-temps.
+
+    La meilleure manière d'entrer en contact avec le bocal est de faire un
+    ticket de support sur l'intranet Bocal : https://intra-bocal.epitech.eu/
+
+    S'ils vous est impossible de créer un ticket, le bocal est présent à deux
+    emplacements :
+
+    - Au Kremlin-Bicêtre, dans le batiment Paritalie à droite de l'entrée
+      principale du batiment (au fond à gauche de la cour en arrivant via la
+      rue Pasteur) ;
+    - Parfois à Villejuif (il n'y a pas toujours de bocaliens présents), au
+      sous-sol (chercher la porte avec un logo Bocal dessus).
+
+**... la feuille de passwords ?**
+
+    Elle vous est donnée en début de scolarité par le bocal. Ne la perdez
+    surtout pas, et si possible gardez-en un scan quelque part (c'est moins
+    facile à perdre qu'une feuille de papier).
+
+    Comme son nom l'indique, sur cette feuille se trouvent tous les mots de
+    passe dont vous aurez besoin pour accèder aux services en rapport avec
+    l'école. Elle contient également vos identifiants. Notamment :
+
+    - Le login : votre identifiant principal à l'école, composé de 6 lettres de
+      votre nom de famille, un *underscore* (_) et la première lettre de votre
+      prénom (quand c'est possible, sinon une autre lettre). Vous vous en
+      servirez à peu près partout.
+    - Le password UNIX : utilisé pour se connecter à distance aux machines
+      Linux de l'école, consulter vos mails, ou accèder à l'AFS.
+    - Le password SOCKS : nécessaire pour se connecter à Netsoul et au réseau
+      Wi-Fi de l'école. Nommé "SOCKS" parce qu'il servait dans le passé à se
+      connecter aux proxies SOCKS de l'école, qui sont maintenant obsolètes.
+    - Le password PPP : nécessaire pour se connecter à différents intranets
+      (intra Bocal, intra EPITECH). Nommé "PPP" parce qu'il étant dans le passé
+      utilisé pour se servir d'EPITA comme FAI via une ligne téléphonique.
+    - L'UID : un numéro unique vous identifiant dans l'école. Sa seule vraie
+      utilité est de s'en servir pour ouvrir les digicodes de l'école.
+    - Le passcode : mot de passe numérique utilisé pour les digicodes.
+
+    Essayez d'avoir toutes ces informations sur vous tant que vous ne les
+    connaissez pas par coeur - il serait bête de se retrouver coincé dehors
+    parce que vous avez oublié votre UID ou votre passcode !
+
+**... Netsoul ?**
+
+    Netsoul est un protocole réseau interne à EPITA et les écoles du groupe
+    IONIS. Lorsque vous vous connectez sur une machine de l'école, vous devez
+    vous connecter à Netsoul pour vous identifier et avoir accès à Internet.
+    Lorsque vous êtes connectés, vous pouvez vous servir de Netsoul pour
+    discuter avec d'autres étudiants. Le serveur Netsoul indique également d'où
+    vous vous êtes connectés afin que n'importe qui puisse savoir où vous êtes
+    dans l'école.
+
+    Pour vous connecter à Netsoul, vous avez besoin d'un client Netsoul. Les
+    plus couramments utilisés sont :
+
+    - bNetsoul sous Windows (installé par défaut sur les racks)
+    - ns_log ou jogsoul sous Linux (ns_log est installé par défaut)
+
+    Dans le passé, Netsoul servait à plein d'autres choses : notification en
+    cas de nouvel email, en cas de coup de téléphone, etc.
+
+**... l'AFS ?**
+
+    C'est le nom donné au stockage de fichiers en réseau de l'école. Tout ce
+    qui est mis sur l'AFS sera disponible sur toutes les machines où vous aurez
+    accès à l'AFS. Pour accèder à l'AFS, rendez-vous dans le dossier
+    ``/afs/epitech.net`` sous Linux, ou ``\\AFS\epitech.net`` sous Windows.
+
+    Vous avez par défaut un dossier personnel sur l'AFS avec un quota de 200Mo
+    de stockage. Son chemin est ``/afs/epitech.net/users/all/<login>/cu`` (en
+    remplaçant ``<login>`` par votre login).
+
+**... le sgoinfre ?**
+
+    Le sgoinfre est un dossier partagé sur l'AFS accessible à tout le monde en
+    lecture et en écriture. Vous pouvez vous en servir pour facilement partager
+    des fichiers à n'importe qui dans l'école. Attention cependant à ne pas
+    vous en servir pour stocker des données importantes : le sgoinfre est vidé
+    tous les jours afin que rien ne s'y accumule.
+
+    Vous pouvez y accèder dans ``/afs/epitech.net/goinfre`` sous Linux ou
+    ``\\AFS\epitech.net\goinfre`` sous Windows.
+
+Comment ...
+-----------
+
+**... lire mes mails EPITA ?**
+
+**... se connecter à IRC ?**

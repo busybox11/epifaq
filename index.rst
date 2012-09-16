@@ -32,6 +32,11 @@ Table des matières
 .. toctree::
    :maxdepth: 2
 
+   pie
+   prepa
+   ing
+   vie-etudiante
+
 Crédits
 -------
 
