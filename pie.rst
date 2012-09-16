@@ -156,7 +156,7 @@ Comment ...
 
 ... se connecter à IRC ?
     Un réseau IRC permet de discuter en temps réel avec des personnes réunies
-    dans des canaux (*channels*) à thèmes. Par exemples, les étudiants d’ÉPITA
+    dans des canaux (*channels*) à thèmes. Par exemple, les étudiants d’EPITA
     ont tendance à se regrouper sur le réseau Rezosup [1]_ dans le canal de
     discussion ``#epita``. Il est possible de rejoindre des canaux IRC très
     simplement avec un client IRC tel que XChat, irssi, weechat, …
@@ -169,7 +169,23 @@ Comment ...
     .. [1] http://www.rezosup.org/
 
 ... signaler une machine ne fonctionnant pas ?
-    TODO
+    Lorsque la machine sur laquelle vous travaillez a un problème, le bocal
+    n'est pas *automagiquement* mis au courant. Signaler ce genre de problèmes
+    vous permet de facilement contribuer à la maintenance du parc informatique
+    de l'EPITA.
+
+    Rendez vous sur l'intra bocal [1] et créez un ticket avec le plus
+    d'informations possibles sur le problème matériel que vous avez rencontré.
+    Un exemple de titre de ticket utile pourrait par exemple être le suivant :
+
+    > Souris morte sur friends (VJ salle 304, r02p10)
+
+    Le nom de la machine est généralement inscrit sur une étiquette collée à la
+    machine. `r02p10` signifie *rangée 2, poste 10*. Les rangées et numéros de
+    postes sont eux aussi indiqués en bout de rangées.
+
+    Dans le corps du ticket, mettez le plus d'informations possibles quand cela
+    a du sens.
 
 ... accèder aux newsgroups ?
     Les newsgroups ne sont rien de plus que des forums. Il est possible
