@@ -152,7 +152,24 @@ Comment ...
     verrouillage de session fonctionnant très bien.
 
 ... lire ses mails EPITA ?
-    TODO
+    Sur votre feuille de password, les deux champs *email* et *remail*
+    correspondent à des adresses email fournies par EPITA. L'administration va
+    souvent vous envoyer des emails à cette adresse, et vous êtes censés les
+    lire régulièrement.
+
+    Chaque élève a une boite mail et plusieurs adresses qui pointent vers cette
+    boite :
+
+    - ``email@epita.fr`` (souvent ``prenom.nom@epita.fr``)
+    - ``remail@epita.fr`` (souvent ``nom.prenom@epita.fr``)
+    - ``login@epita.fr``
+    - ``login@epitech.eu`` (pour des raisons étranges d'intra bocal qui n'envoie
+      pas sur votre boite ``@epita.fr``)
+
+    Pour lire votre boite mail, vous devez vous connecter à Outlook Live, dont
+    l'URL est https://login.live.com/ . Entrez comme *Compte Microsoft*
+    ``email@epita.fr`` (donc, souvent, ``prenom.nom@epita.fr``), et comme *Mot
+    de passe* votre password UNIX.
 
 ... se connecter à IRC ?
     Un réseau IRC permet de discuter en temps réel avec des personnes réunies

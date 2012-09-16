@@ -45,3 +45,4 @@ Liste des contributeurs à cette FAQ :
 - Pierre Bourdon (promo 2013)
 - Pierre-Marie de Rodat (promo 2013)
 - Kevin Sztern (promo 2015)
+- Antoine Pietri (promo 2016)
