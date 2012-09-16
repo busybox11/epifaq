@@ -4,6 +4,23 @@ Parc Informatique de l'EPITA
 Qu'est-ce que ...
 -----------------
 
+**... les SM ?**
+
+    SM est l'abbréviation de *Salle Machine*. Il s'agit des salles de l'école
+    où on trouve de 20 à 80 postes informatiques accessibles à tous les élèves.
+    Comme le reste de l'école, ces salles sont ouvertes 24h/24.
+
+    On en trouve à Villejuif et au Kremlin-Bicêtre : 1er étage des locaux du KB
+    côté Voltaire (lab SR, Mid-lab, lab Cisco, sm14, sm15), lab Pasteur (qui
+    donne sur la cour du KB), sous-sol Pasteur (sm02, sm03), 3ème étage à
+    Villejuif (v301, v302, v303, v304, v306).
+
+    Elles sont soumises à un réglement supplémentaire à celui habituel, qui est
+    normalement affiché sur les murs ou sur les portes. Les quelques règles
+    importantes à ne pas oublier : ne pas manger ou boire dans les salles
+    machines, ne pas débrancher les machines, ne pas brancher son ordinateur
+    portable, ne pas jouer avant 19h et après 8h.
+
 **... le bocal ?**
 
     Ce sont les administrateurs système de l'école, dont le rôle est de
@@ -97,6 +114,33 @@ Qu'est-ce que ...
 Comment ...
 -----------
 
-**... lire mes mails EPITA ?**
+**... verrouiller sa session ?**
+
+    Il est parfois nécessaire de s'absenter quelques minutes de son poste
+    informatique (pour téléphoner, aller boire quelque chose en dehors de la
+    salle machine, etc.). Si cela arrive et que vous laissez votre session
+    ouverte, n'importe qui passant dans les rangs de la salle machine peut
+    accèder au réseau de l'école en tant que vous, récupérer vos fichiers,
+    installer des virus sur votre rack, etc. Il est donc nécessaire de
+    verrouiller sa session avant de bouger de son poste, même si vous vous
+    absentez pour moins d'une minute.
+
+    Sous Windows, la fonctionnalité est disponible de base si vous avez mis un
+    mot de passe correct à votre session : le raccourci clavier est Win+L.
+
+    Sous Linux, si vous utilisez la distribution installée par défaut sur votre
+    rack, vous pouvez lancer la commande ``zlock`` et cliquer sur la fenêtre
+    qui apparait pour verrouiller votre session. N'oubliez surtout pas de
+    cliquer sur cette fenêtre, sans quoi votre session resterait ouverte !
+
+    Si vous n'utilisez pas la distribution Linux fournie par le bocal,
+    installez au choix xtrlock ou slock, qui sont deux logiciels de
+    verrouillage de session fonctionnant très bien.
+
+**... lire ses mails EPITA ?**
 
 **... se connecter à IRC ?**
+
+**... signaler une machine ne fonctionnant pas ?**
+
+**... accèder aux newsgroups ?**
