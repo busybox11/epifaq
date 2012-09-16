@@ -174,11 +174,11 @@ Comment ...
     vous permet de facilement contribuer à la maintenance du parc informatique
     de l'EPITA.
 
-    Rendez vous sur l'intra bocal [1] et créez un ticket avec le plus
+    Rendez vous sur l'intra bocal [2]_ et créez un ticket avec le plus
     d'informations possibles sur le problème matériel que vous avez rencontré.
     Un exemple de titre de ticket utile pourrait par exemple être le suivant :
 
-    > Souris morte sur friends (VJ salle 304, r02p10)
+        Souris morte sur friends (VJ salle 304, r02p10)
 
     Le nom de la machine est généralement inscrit sur une étiquette collée à la
     machine. `r02p10` signifie *rangée 2, poste 10*. Les rangées et numéros de
@@ -186,6 +186,8 @@ Comment ...
 
     Dans le corps du ticket, mettez le plus d'informations possibles quand cela
     a du sens.
+
+    .. [2] https://intra-bocal.epitech.eu/
 
 ... accèder aux newsgroups ?
     Les newsgroups ne sont rien de plus que des forums. Il est possible
