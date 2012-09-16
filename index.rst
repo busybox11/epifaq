@@ -33,8 +33,7 @@ Table des matières
    :maxdepth: 2
 
    pie
-   prepa
-   ing
+   etudes
    vie-etudiante
 
 Crédits
