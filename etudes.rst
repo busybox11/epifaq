@@ -46,6 +46,18 @@ Où est disponible mon emploi du temps ?
 
 .. [1] https://play.google.com/store/apps/details?id=com.iiie.epilife&hl=en
 
+Quand puis-je faire mes études à l'étranger ?
+    TODO
+
+Où se trouvent les locaux de l'administration de l'école ?
+    TODO
+
+Quelles sont les personnes de l'administration à contacter ?
+    TODO
+
+Qu'est-ce qu'une journée de TIG ?
+    TODO
+
 Cycle préparatoire (SUP/SPÉ)
 ----------------------------
 
