@@ -4,8 +4,7 @@ Parc Informatique de l'EPITA
 Qu'est-ce que ...
 -----------------
 
-**... les SM ?**
-
+... les SM ?
     SM est l'abbréviation de *Salle Machine*. Il s'agit des salles de l'école
     où on trouve de 20 à 80 postes informatiques accessibles à tous les élèves.
     Comme le reste de l'école, ces salles sont ouvertes 24h/24.
@@ -21,8 +20,7 @@ Qu'est-ce que ...
     machines, ne pas débrancher les machines, ne pas brancher son ordinateur
     portable, ne pas jouer avant 19h et après 8h.
 
-**... le bocal ?**
-
+... le bocal ?
     Ce sont les administrateurs système de l'école, dont le rôle est de
     maintenir le parc informatique des écoles du groupe IONIS en état de
     fonctionnement. À quelques exceptions près, les membres du bocal
@@ -40,8 +38,7 @@ Qu'est-ce que ...
     - Parfois à Villejuif (il n'y a pas toujours de bocaliens présents), au
       sous-sol (chercher la porte avec un logo Bocal dessus).
 
-**... la feuille de passwords ?**
-
+... la feuille de passwords ?
     Elle vous est donnée en début de scolarité par le bocal. Ne la perdez
     surtout pas, et si possible gardez-en un scan quelque part (c'est moins
     facile à perdre qu'une feuille de papier).
@@ -70,8 +67,7 @@ Qu'est-ce que ...
     connaissez pas par coeur - il serait bête de se retrouver coincé dehors
     parce que vous avez oublié votre UID ou votre passcode !
 
-**... Netsoul ?**
-
+... Netsoul ?
     Netsoul est un protocole réseau interne à EPITA et les écoles du groupe
     IONIS. Lorsque vous vous connectez sur une machine de l'école, vous devez
     vous connecter à Netsoul pour vous identifier et avoir accès à Internet.
@@ -89,8 +85,7 @@ Qu'est-ce que ...
     Dans le passé, Netsoul servait à plein d'autres choses : notification en
     cas de nouvel email, en cas de coup de téléphone, etc.
 
-**... l'AFS ?**
-
+... l'AFS ?
     C'est le nom donné au stockage de fichiers en réseau de l'école. Tout ce
     qui est mis sur l'AFS sera disponible sur toutes les machines où vous aurez
     accès à l'AFS. Pour accèder à l'AFS, rendez-vous dans le dossier
@@ -100,8 +95,7 @@ Qu'est-ce que ...
     de stockage. Son chemin est ``/afs/epitech.net/users/all/<login>/cu`` (en
     remplaçant ``<login>`` par votre login).
 
-**... le sgoinfre ?**
-
+... le sgoinfre ?
     Le sgoinfre est un dossier partagé sur l'AFS accessible à tout le monde en
     lecture et en écriture. Vous pouvez vous en servir pour facilement partager
     des fichiers à n'importe qui dans l'école. Attention cependant à ne pas
@@ -114,8 +108,7 @@ Qu'est-ce que ...
 Comment ...
 -----------
 
-**... verrouiller sa session ?**
-
+... verrouiller sa session ?
     Il est parfois nécessaire de s'absenter quelques minutes de son poste
     informatique (pour téléphoner, aller boire quelque chose en dehors de la
     salle machine, etc.). Si cela arrive et que vous laissez votre session
@@ -137,10 +130,10 @@ Comment ...
     installez au choix xtrlock ou slock, qui sont deux logiciels de
     verrouillage de session fonctionnant très bien.
 
-**... lire ses mails EPITA ?**
+... lire ses mails EPITA ?
+    TODO
 
-**... se connecter à IRC ?**
-
+... se connecter à IRC ?
     Un réseau IRC permet de discuter en temps réel avec des personnes réunies
     dans des canaux (*channels*) à thèmes. Par exemples, les étudiants d’ÉPITA
     ont tendance à se regrouper sur le réseau Rezosup [1]_ dans le canal de
@@ -154,10 +147,10 @@ Comment ...
 
     .. [1] http://www.rezosup.org/
 
-**... signaler une machine ne fonctionnant pas ?**
+... signaler une machine ne fonctionnant pas ?
+    TODO
 
-**... accèder aux newsgroups ?**
-
+... accèder aux newsgroups ?
     Les newsgroups ne sont rien de plus que des forums. Il est possible
     d’accéder aux groupes du PIE sur le serveur ``news.epita.fr`` avec un
     client NNTP tel que slrn, rtin, Gnus ou encore Thunderbird, Pan et
@@ -166,8 +159,7 @@ Comment ...
     Un tutoriel pas-à-pas sur l’utilisation d’slrn est disponible ici :
     http://canartichaut.kawie.fr/essentiel-configuration-slrn/
 
-**... monter une clef USB sans rooter son rack sous Unix ?**
-
+... monter une clef USB sans rooter son rack sous Unix ?
     Monter une clef USB avec ``mount(1)`` demande les permissions du
     superutilisateur (root). Le programme ``pmount(1)`` permet heureusement de
     s’en sortir avec un utilisateur normal.::
