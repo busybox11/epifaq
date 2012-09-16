@@ -38,6 +38,27 @@ Qu'est-ce que ...
     - Parfois à Villejuif (il n'y a pas toujours de bocaliens présents), au
       sous-sol (chercher la porte avec un logo Bocal dessus).
 
+... le rack ?
+    Le rack est un disque dur dans un boitier spécial qui permet de se brancher
+    à n'importe quelle machine de l'école. Par défaut l'école vous fournit un
+    boitier contenant un disque dur de 500 Go, dont environ 200 Go sont
+    utilisés par le *dump* (voire en dessous) et 300 Go sont disponibles pour
+    vous installer un autre OS si vous le souhaitez.
+
+... le dump ?
+
+    C'est le nom donné au contenu par défaut du disque du rack. Si vous n'avez
+    rien modifié à votre rack, vous utilisez normalement un des 3 systèmes
+    présent sur le dump du bocal. Ce dump change tous les ans - pour l'année
+    scolaire 2012-2013, il est composé de 3 systèmes d'exploitations :
+
+    - Un Windows 7 x64 avec Visual Studio et des outils de développement OCaml
+    - Un Linux OpenSuse avec tous les outils nécessaires pour faire du C, du
+      C++, de l'OCaml et du Java
+    - Une partition *exam* utilisée pour les examens de programmation se
+      passant en salle machine. Elle contient à peu près la même chose que la
+      partition Linux normale. Vous ne pouvez pas l'utiliser hors des examens.
+
 ... la feuille de passwords ?
     Elle vous est donnée en début de scolarité par le bocal. Ne la perdez
     surtout pas, et si possible gardez-en un scan quelque part (c'est moins
@@ -51,8 +72,9 @@ Qu'est-ce que ...
       votre nom de famille, un *underscore* (_) et la première lettre de votre
       prénom (quand c'est possible, sinon une autre lettre). Vous vous en
       servirez à peu près partout.
-    - Le password UNIX : utilisé pour se connecter à distance aux machines
-      Linux de l'école, consulter vos mails, ou accèder à l'AFS.
+    - Le password UNIX (noté simplement `password` sur la feuille): utilisé
+      pour se connecter à distance aux machines Linux de l'école, consulter vos
+      mails, ou accèder à l'AFS.
     - Le password SOCKS : nécessaire pour se connecter à Netsoul et au réseau
       Wi-Fi de l'école. Nommé "SOCKS" parce qu'il servait dans le passé à se
       connecter aux proxies SOCKS de l'école, qui sont maintenant obsolètes.
