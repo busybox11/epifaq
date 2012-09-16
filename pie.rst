@@ -141,6 +141,39 @@ Comment ...
 
 **... se connecter à IRC ?**
 
+    Un réseau IRC permet de discuter en temps réel avec des personnes réunies
+    dans des canaux (*channels*) à thèmes. Par exemples, les étudiants d’ÉPITA
+    ont tendance à se regrouper sur le réseau Rezosup [1]_ dans le canal de
+    discussion ``#epita``. Il est possible de rejoindre des canaux IRC très
+    simplement avec un client IRC tel que XChat, irssi, weechat, …
+
+    Pour les personnes pressées, ``irssi`` est théoriquement installé sur les
+    dumps : lancez ``irssi`` en ligne de commande. Dans l’interface qui
+    apparaît, entrez la commande ``/connect irc.rezosup.org`` puis ``/join
+    #epita``. Vous êtes prêts à discuter !
+
+    .. [1] http://www.rezosup.org/
+
 **... signaler une machine ne fonctionnant pas ?**
 
 **... accèder aux newsgroups ?**
+
+    Les newsgroups ne sont rien de plus que des forums. Il est possible
+    d’accéder aux groupes du PIE sur le serveur ``news.epita.fr`` avec un
+    client NNTP tel que slrn, rtin, Gnus ou encore Thunderbird, Pan et
+    Sylpheed.
+
+    Un tutoriel pas-à-pas sur l’utilisation d’slrn est disponible ici :
+    http://canartichaut.kawie.fr/essentiel-configuration-slrn/
+
+**... monter une clef USB sans rooter son rack sous Unix ?**
+
+    Monter une clef USB avec ``mount(1)`` demande les permissions du
+    superutilisateur (root). Le programme ``pmount(1)`` permet heureusement de
+    s’en sortir avec un utilisateur normal.::
+
+        # Monte la partition /dev/sdb1
+        pmount sdb1
+
+        # Monte la partition s’appelant MyUSB
+        pmount LABEL=MyUSB
