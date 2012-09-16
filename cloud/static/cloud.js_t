@@ -118,7 +118,7 @@ $(document).ready(function (){
  */
 
 $(document).ready(function (){
-  var holder = $('<div class="sidebartoggle"><button id="sidebar-hide" title="click to hide the sidebar">&laquo;</button><button id="sidebar-show" style="display: none" title="click to show the sidebar">sidebar &raquo;</button></div>');
+  var holder = $('<div class="sidebartoggle"><button id="sidebar-hide" title="click to hide the menu">&laquo;</button><button id="sidebar-show" style="display: none" title="click to show the sidebar">menu &raquo;</button></div>');
   var doc = $('div.document');
 
   var show_btn = $('#sidebar-show', holder);
