@@ -54,6 +54,7 @@ Quand puis-je faire mes études à l'étranger ?
     Le second semestre de SPÉ peut être effectué à l'étranger dans une des
     universités partenaires de l'EPITA. Parmi ces dernières, on peut
     généralement compter :
+
     - Stellenbosch University en Afrique du sud (http://www.sun.ac.za) 
     - Staffordshire University en Angleterre (http://www.staffs.ac.uk)
     - Griffith College Dublin en Irlande (http://www.gcd.ie)
