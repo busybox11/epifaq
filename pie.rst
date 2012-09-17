@@ -56,6 +56,8 @@ Qu'est-ce que ...
     - Une partition *exam* utilisée pour les examens de programmation se
       passant en salle machine. Elle contient à peu près la même chose que la
       partition Linux normale. Vous ne pouvez pas l'utiliser hors des examens.
+    - Une entrée *redump* dans le menu de boot qui vous permet de remettre à
+      zéro votre rack à partir d'une copie du dump située sur le disque
 
 ... la feuille de passwords ?
     Elle vous est donnée en début de scolarité par le bocal. Ne la perdez
