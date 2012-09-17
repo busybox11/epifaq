@@ -45,3 +45,5 @@ Liste des contributeurs à cette FAQ :
 - Pierre-Marie de Rodat (promo 2013)
 - Kevin Sztern (promo 2015)
 - Antoine Pietri (promo 2016)
+- Rémi Audebert (promo 2016)
+- Nicolas Hureau (promo 2013)
