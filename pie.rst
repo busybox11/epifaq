@@ -32,9 +32,8 @@ Qu'est-ce que ...
     S'ils vous est impossible de créer un ticket, le bocal est présent à deux
     emplacements :
 
-    - Au Kremlin-Bicêtre, dans le batiment Paritalie à droite de l'entrée
-      principale du batiment (au fond à gauche de la cour en arrivant via la
-      rue Pasteur) ;
+    - Au Kremlin-Bicêtre, depuis la cours Pasteur montez l'escalier à droite de
+      la cafétéria puis descendez l'escalier en colimaçon ;
     - Parfois à Villejuif (il n'y a pas toujours de bocaliens présents), au
       sous-sol (chercher la porte avec un logo Bocal dessus).
 
@@ -57,6 +56,8 @@ Qu'est-ce que ...
     - Une partition *exam* utilisée pour les examens de programmation se
       passant en salle machine. Elle contient à peu près la même chose que la
       partition Linux normale. Vous ne pouvez pas l'utiliser hors des examens.
+    - Une entrée *redump* dans le menu de boot qui vous permet de remettre à
+      zéro votre rack à partir d'une copie du dump située sur le disque
 
 ... la feuille de passwords ?
     Elle vous est donnée en début de scolarité par le bocal. Ne la perdez
