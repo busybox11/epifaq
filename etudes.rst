@@ -58,7 +58,7 @@ Quand puis-je faire mes études à l'étranger ?
     - Stellenbosch University en Afrique du sud (http://www.sun.ac.za) 
     - Staffordshire University en Angleterre (http://www.staffs.ac.uk)
     - Griffith College Dublin en Irlande (http://www.gcd.ie)
-    - Jia Tong University en Chine (http://en.sjtu.edu.cn/)
+    - Jiao Tong University en Chine (http://en.sjtu.edu.cn/)
     - D'autres en fonction de l'alignement des planètes
 
     Le semestre à l'étranger peut aussi s'effectuer lors d'un des stages du
