@@ -12,7 +12,7 @@ Comment se déroule la scolarité à EPITA ?
       deuxième année la SPÉ. Pendant ces deux ans, l'accent est mis sur
       l'enseignement des sciences fondamentales (mathématiques, physique,
       électronique) tout en commençant l'apprentissage de l'informatique via
-      des cours d'algorithmique et des TPs de programmation.
+      des cours d'algorithmique et des TP de programmation.
 
     - Le cycle ingénieur, 3 ans, de BAC+3 à BAC+5. Les trois années du cycle
       ingénieur s'appellent respectivement ING1, ING2 et ING3. Pendant ces
@@ -47,7 +47,36 @@ Où est disponible mon emploi du temps ?
 .. [1] https://play.google.com/store/apps/details?id=com.iiie.epilife&hl=en
 
 Quand puis-je faire mes études à l'étranger ?
-    TODO
+    Lors du cursus, vous avez l'obligation d'effectuer au moins un semestre à
+    l'étranger. Il existe plusieurs solutions à différents moments de votre
+    scolarité.
+    
+    Le second semestre de SPÉ peut être effectué à l'étranger dans une des
+    universités partenaires de l'EPITA. Parmi ces dernières, on peut
+    généralement compter :
+    - Stellenbosch University en Afrique du sud (http://www.sun.ac.za) 
+    - Staffordshire University en Angleterre (http://www.staffs.ac.uk)
+    - Griffith College Dublin en Irlande (http://www.gcd.ie)
+    - Jia Tong University en Chine (http://en.sjtu.edu.cn/)
+    - D'autres en fonction de l'alignement des planètes
+
+    Le semestre à l'étranger peut aussi s'effectuer lors d'un des stages du
+    cycle ingénieur (il faut qu'il dure un minimum de temps pour valider
+    l'étranger). Par exemple, avec un stage aux États-unis, c'est bon.
+
+    La dernière possibilité, qui est plutôt une solution de secours si vous
+    n'avez pas pu faire les deux précédentes, est de faire un semestre dans
+    une des universités partenaires *après* le stage de fin d'étude (le stage
+    de fin d'ING3).
+
+    Il est évident que vous n'êtes pas restreint à un semestre à l'étranger. Par
+    exemple vous pouvez faire le semestre de SPÉ en Irlande et faire vos stages
+    aux États-unis. Un petit conseil cependant : si vous faites le semestre à
+    l'étranger de SPÉ vous êtes libéré de cette contrainte. Par exemple vous
+    envisagez peut-être de faire votre stage de fin d'étude, et là une boite en
+    France vous propose un stage de rêve (si, sur un malentendu, c'est
+    possible). Vous ne pourriez pas l'accepter car vous seriez obligé d'aller à
+    l'étranger. Ce qui serait dommage.
 
 Où se trouvent les locaux de l'administration de l'école ?
     TODO
