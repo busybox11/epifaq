@@ -26,6 +26,12 @@ nous envoyer un email à faq@epita.eu pour que des volontaires rajoutent les
 
 .. [1] http://www.zorinaq.com/epifaq/epifaq-1.1.3-2003-01-09.html
 
+.. note::
+    Cette FAQ est non officielle et est rédigée exclusivement par des élèves de
+    l'école. En cas de contradiction avec une source officielle (administration
+    de l'école, intranet bocal), prenez le contenu de cette FAQ avec des
+    pincettes et réflechissez !
+
 Table des matières
 ------------------
 
