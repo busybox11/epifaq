@@ -91,8 +91,42 @@ Qu'est-ce qu'une journée de TIG ?
 Cycle préparatoire (SUP/SPÉ)
 ----------------------------
 
-.. todo::
-    Cette section de la FAQ n'a pas encore été rédigée :-(
+Quel matériel pour les cours ?
+	Aucun matériel particulier n'est demandé pour les cours, libre à vous
+	d'utiliser feuilles, cahiers et stylos comme bon vous semble.
+	
+Donc je peux prendre mon laptop pendant les cours ?
+	Non, les ordinateurs et téléphones portables sont interdits pendant les
+	cours et les TD, que ce soit en SUP ou en SPÉ. Par contre rien ne vous
+	empêche de les utiliser en dehors des cours (avant, après et entre les
+	cours).
+
+	Les TP ont lieu en SM donc vous les ferez plutôt sur vos racks que sur vos
+	laptops.
+
+Qu'est-ce que le séminaire ?
+	Le séminaire est une période de 2 semaines se déroulant en début d'année
+	scolaire. Au programme il y a:
+	- en SUP: 3h de math et 3h d'algorithmique (apprentissage des bases du
+	  langage Caml) par jour avec des QCM le matin
+	- en SPÉ: cours, TD et TP de THLR (Théorie des Langages Rationnels) la
+	  première semaine et conférences sur le thème "Recherche & Innovation" la
+	  deuxième semaine
+
+	À la suite de ces 2 semaines de séminaire, les cours reprennent leur rythme
+	normal jusqu'à la fin de l'année (hors période d'examens).
+
+Où les cours ont-ils lieu ?
+	Les cours de prépa ont lieu à Villejuif, dans le batiment principal (VA) et
+	dans le batiment préfabriqué (VB).
+
+Les cours sont-ils obligatoires ?
+	Oui, en prépa vous devez être présent à tous les cours, TD et TP (sauf
+	justification valable). Toute absence non justifiée vous faire perdre des
+	points sur la note d'assiduité (-2 par tranche d'1h30) ce qui peut
+	éventuellement déboucher sur des journées de TIG. Vous trouverez plus
+	d'informations sur la note d'assiduité dans le livret d'accueil distribué en
+	début d'année.
 
 Cycle ingénieur (ING1/ING2/ING3)
 --------------------------------
