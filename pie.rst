@@ -226,3 +226,14 @@ Comment ...
 
         # Monte la partition s’appelant MyUSB
         pmount LABEL=MyUSB
+
+... récupérer un client netsoul sans être netsoulé au préalable ?
+    Lorsque vous êtes au sein du PIE, il n'est pas possible d'accéder à
+    internet sans être netsoulé. Dès lors, le problème de l'oeuf et de la poule
+    se présente : comment récupérer un client netsoul sans avoir accès au web ?
+    Heureusement, le FTP epitech [3]_ est disponible même si vous n'êtes pas
+    netsoulés. Vous y trouverez dans le dossier pub une sélection de clients
+    netsouls [4]_ qui vous permettra d'accéder à internet au sein du PIE.
+
+    .. [3] ftp://ftp.epitech.net
+    .. [4] ftp://ftp.epitech.net/pub/netsoul/clients/
