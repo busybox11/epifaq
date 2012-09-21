@@ -128,6 +128,16 @@ Les cours sont-ils obligatoires ?
 	d'informations sur la note d'assiduité dans le livret d'accueil distribué en
 	début d'année.
 
+Où avoir les informations données par l'administration ?
+	L'administration est suceptible de vous donner diverses informations comme
+	par exemple les horaires des contrôles et partiels, les notes de QCM, ...
+	Vous trouverez ces informations sur:
+	- Le panneau d'affichage au rez-de-chaussée du bâtiment principal près de la
+	  photocopieuse (derrière l'ascenceur)
+	- Le mur face aux bureaux de l'administration (toujours au rez-de-chaussée)
+	- Votre boîte mail EPITA. Vous êtes sensés avoir pris connaissance de tous
+	  les mails qui vous sont envoyés sur cette boîte (prenom.nom@epita.fr)
+
 Cycle ingénieur (ING1/ING2/ING3)
 --------------------------------
 
