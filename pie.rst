@@ -172,6 +172,15 @@ Comment ...
     ``email@epita.fr`` (donc, souvent, ``prenom.nom@epita.fr``), et comme *Mot
     de passe* votre password UNIX.
 
+... faire suivre ses mails EPITA ?
+	Rendez-vous sur votre boîte mail (http://outlook.com/owa). Cliquez sur le
+	bouton *Options* en haut à droite puis sur *Créer une règle de boîte de
+	réception*. Vous arrivez alors sur une nouvelle page sur laquelle vous
+	trouverez un bouton *Nouveau...* pour créer une nouvelle règle. Pour cela
+	une nouvelle fenêtre s'ouvre. Dans les deux champs, sélectionnez *[Appliquer à
+	tous les messages]* et *Rediriger le message vers...* puis choisissez
+	l'adresse à laquelle vous voulez faire suivre votre courrier.
+
 ... se connecter à IRC ?
     Un réseau IRC permet de discuter en temps réel avec des personnes réunies
     dans des canaux (*channels*) à thèmes. Par exemple, les étudiants d’EPITA
