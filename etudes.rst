@@ -42,7 +42,8 @@ Où est disponible mon emploi du temps ?
     Chronos étant assez peu pratique (vous le découvrirez bien vite...), des
     étudiants ont créés de nombreuses applications permettant de consulter son
     emploi du temps plus facilement. Vous pouvez par exemple utiliser
-    l'application Epilife [1]_ sur votre téléphone Android.
+    l'application Epilife [1]_ sur votre téléphone Android, ou encore le site
+    http://ichronos.in.
 
 .. [1] https://play.google.com/store/apps/details?id=com.iiie.epilife&hl=en
 
