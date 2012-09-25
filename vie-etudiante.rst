@@ -1,8 +1,8 @@
 Vie étudiante et associations
 =============================
 
-Liste des associations à EPITA:
--------------------------------
+Liste des associations à EPITA
+------------------------------
 
 BDE
     Le bureau des élèves a pour but d'animer la vie des étudiants
@@ -106,4 +106,3 @@ Unisson
 VJN
     Organisatrice de soirées à thème sur le campus de Villejuif. Les
     activités vont du concert aux oldies en passant par les jeux vidéo.
-
