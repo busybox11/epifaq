@@ -53,3 +53,4 @@ Liste des contributeurs à cette FAQ :
 - Antoine Pietri (promo 2016)
 - Rémi Audebert (promo 2016)
 - Nicolas Hureau (promo 2013)
+- Jérémy Lefaure (promo 2016)
