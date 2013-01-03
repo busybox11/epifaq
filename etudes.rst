@@ -89,6 +89,19 @@ Quelles sont les personnes de l'administration à contacter ?
 Qu'est-ce qu'une journée de TIG ?
     TODO
 
+Où trouver des annales des partiels et autres examens de l'école ?
+    Mastercorp [2]_ est un service collaboratif de partage d'annales et de
+    documents de cours pour les étudiants de l'école, de la SUP à l'ING3. Vous
+    pourrez y trouver de nombreuses choses, parfois vielles, parfois fausses -
+    la qualité est assez variable. Cependant, il s'agit de l'archive publique
+    la plus complète.
+
+    Si vous possédez un scanner, n'hésitez pas à numériser vos copies de
+    partiels, sujets, et notes de cours afin d'en faire profiter les promotions
+    suivantes !
+
+.. [2] http://mastercorp.epita.eu/
+
 Cycle préparatoire (SUP/SPÉ)
 ----------------------------
 
