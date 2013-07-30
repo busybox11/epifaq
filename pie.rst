@@ -167,19 +167,22 @@ Comment ...
     - ``login@epitech.eu`` (pour des raisons étranges d'intra bocal qui n'envoie
       pas sur votre boite ``@epita.fr``)
 
-    Pour lire votre boite mail, vous devez vous connecter à Outlook Live, dont
-    l'URL est https://login.live.com/ . Entrez comme *Compte Microsoft*
+    Pour lire votre boite mail, vous devez vous connecter à Office 365, dont
+    l'URL est https://login.microsoftonline.com/ . Entrez comme *Compte Microsoft*
     ``email@epita.fr`` (donc, souvent, ``prenom.nom@epita.fr``), et comme *Mot
     de passe* votre password UNIX.
 
 ... faire suivre ses mails EPITA ?
-    Rendez-vous sur votre boîte mail (http://outlook.com/owa). Cliquez sur le
-    bouton *Options* en haut à droite puis sur *Créer une règle de boîte de
-    réception*. Vous arrivez alors sur une nouvelle page sur laquelle vous
-    trouverez un bouton *Nouveau...* pour créer une nouvelle règle. Pour cela
-    une nouvelle fenêtre s'ouvre. Dans les deux champs, sélectionnez *[Appliquer à
-    tous les messages]* et *Rediriger le message vers...* puis choisissez
-    l'adresse à laquelle vous voulez faire suivre votre courrier.
+    Rendez-vous sur votre boîte mail (https://login.microsoftonline.com).
+    Cliquez sur le bouton *Options* puis sur *Transferer votre courrier électronique*,
+    remplissez le champ en bas de page,et cliquez sur *Démarrer le transfert*.
+    Vous pouvez créer des régles plus avancées en cliquant sur *Organiser la messagerie*
+    Vous arrivez alors sur une nouvelle page sur laquelle vous trouverez un bouton
+    *Nouveau...* pour créer une nouvelle règle. Pour cela une nouvelle fenêtre s'ouvre.
+    Dans les deux champs, sélectionnez *[Appliquer à tous les messages]* et
+    *Rediriger le message vers...* puis choisissez l'adresse à laquelle vous voulez
+    faire suivre votre courrier, vous pouvez ajouter d'autres actions comme
+    *marquer le message comme lu*.
 
 ... se connecter à IRC ?
     Un réseau IRC permet de discuter en temps réel avec des personnes réunies
