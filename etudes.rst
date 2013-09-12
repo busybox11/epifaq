@@ -102,6 +102,32 @@ Où trouver des annales des partiels et autres examens de l'école ?
 
 .. [2] http://mastercorp.epita.eu/
 
+Qui sont les assistants ?
+    Les assistants sont des étudiants à EPITA qui donnent des cours ou des TPs
+    d'informatique pratique aux étudiants des promotions plus jeunes. Il y a en
+    tout 4 types d'assistants :
+
+    - Les ACDC (« Assistants C Dièse Caml »), des ING1 qui dirigent les TPs
+      d'informatique pratique C# et OCaml en InfoSup ;
+    - Les AOC (« Assistants Ocaml C »), des ING1 qui dirigent les TP
+      d'informatique pratique Ocaml et C en InfoSpé ;
+    - Les YAKA (« Yet Another Kind of Assistant »), des ING2 responsables de
+      l'IP pendant le second semestre de l'ING1. Ils enseignent le C++, le
+      Java, le SQL et la conception objet.
+    - Les ACU (« Assistants C Unix »), des ING3 responsables de l'IP pendant le
+      premier semestre de l'ING1 (y compris la piscine). Ils enseignent le C,
+      le shell et le fonctionnement des systèmes UNIX.
+
+Comment devenir assistant ?
+    Il y a plusieurs conditions pour devenir assistant, officiellement vous ne
+    devez ni être en échec scolaire ni avoir passé un conseil de discipline.
+
+    - ACDC : Christophe Boullay envoie une news de recrutement au début de
+      l'année ;
+    - AOC : Marwan envoie une news de recrutement au début de l'année ;
+    - YAKA & ACU : Les anciens assistants vous indiqueront la procédure à
+      suivre et vous passerez des entretiens et un QCM technique.
+
 Cycle préparatoire (SUP/SPÉ)
 ----------------------------
 
