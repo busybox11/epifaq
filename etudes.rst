@@ -81,7 +81,79 @@ Quand puis-je faire mes études à l'étranger ?
     l'étranger. Ce qui serait dommage.
 
 Où se trouvent les locaux de l'administration de l'école ?
-    TODO
+    Sur le campus de *Villejuif*, tout de suite en entrant dans le bâtiment par
+    la porte principale, vous avez le bureau du gardien, et, juste derrière, le
+    bureau de la responsable du site, Josiane Rinaldi. Ensuite, la majorité
+    des bureaux se trouvent le long du couloir vitré que vous avez directement
+    devant vous en entrant dans le bâtiment. De gauche à droite, vous avez :
+
+    - le bureau des professeurs d’anglais, qui sert aussi ponctuellement pour
+      la communication et l’ingénierie,
+    - le bureau des responsables du module mathématiques, Olivier Rodot, et
+      algorithmique, Christophe Boullay,
+    - le bureau de Claudine Cavatorta, responsable du cycle préparatoire,
+    - le bureau de Chantal Schmitt, secrétaire pédagogique et Alain Delage,
+      responsable des absences et de la reprographie sur le campus de VJ,
+    - le bureau de Claire Couery, secrétaire pédagogique et responsable de la
+      bibliothèque de VJ.
+
+    Ensuite au deuxième étage, à la place de ce qui devrait être la salle 201,
+    se trouve la salle des professeurs. Et enfin, au sous-sol, vous trouverez
+    la reprographie juste en face de l’escalier gauche du bâtiment, et, au
+    milieu du couloir le local du Bocal pour Villejuif.
+
+    Sur le campus du *Kremlin-Bicêtre*, les bureaux de l’administration sont
+    éclatés dans plusieurs bâtiment différents :
+
+    - dans le bâtiment Voltaire (celui qui donne sur le périph) :
+
+        - vous avez tout d’abord l’accueil qui se trouve dans le bureau en
+          verre en plein milieu de l’entrée lorsque vous rentrez dans le
+          bâtiment côté rue Voltaire (périph).
+        - ensuite, lorsque vous entrez côté rue Pasteur par l’entrée de
+          droite, derrière la porte qui se situe tout de suite à droite se
+          trouvent les bureaux de la pédagogie du cycle ingénieur et la
+          direction de l’école. Dans le sens des aiguilles d’une montre vous y
+          trouverez : le bureau du responsable du cursus apprentissage, Yannick
+          Goix et de la secrétaire pédagogie du cycle ingénieur, Assia
+          Touil-Spicher, le bureau du responsable du cycle ingénieur, Christian
+          Dujardin, le bureau des assistantes pour le cycle ingénieur : Marion
+          Ormancey pour les Ing1 et Sandrine Caurand pour les Ing2 et Ing3 et
+          du responsable des absences et de la reprographie pour le campus du
+          KB, Pedro Miranda, le bureau de Joël Courtois, directeur de l’école,
+          et, enfin, le bureau de la secrétaire de direction, Sandrine
+          Maingourd,
+        - au premier étage, derrière l’escalier qui se trouve juste en face de
+          l’entrée gauche rue Pasteur, se trouve le laboratoire assistants et,
+          en face de celui-ci, le bureau de Fabrice Bardèche, vice-président du
+          groupe IONIS,
+        - enfin, côté Voltaire, tout de suite à gauche en entrant depuis la rue
+          Voltaire, à gauche de l’escalier se trouve le bureau des
+          relations internationales, des masters internationaux et des
+          associations, dirigé par Christophe Rouvrais,
+
+    - dans la cour Pasteur, juste à gauche de la descente vers l’under, vous
+      trouverez le bureau du responsable du site et de la logistique pour le
+      campus du KB,
+
+    - dans le bâtiment X, côté cour Pasteur (la grande cour en face du
+      bâtiment Voltaire), accessible par les deux escaliers qui montent juste à
+      droite de la cafétéria :
+
+        - l’escalier en colimaçon qui descend tout de suite à gauche de
+          l’escalier gauche est l’accès vers le Bocal,
+        - dans le couloir derrière la porte en face de l’entrée de l’escalier
+          de droite, vous trouverez les bureaux des responsables de la
+          communication de l’école, où travaillent Isabelle Ducastel, Karine
+          Gounot et Céline Happert et la comptabilité de l’école,
+
+    - dans le bâtiment X, cour Paritalie (en remontant la rue Pasteur vers
+      l’Ouest, c’est la cour qui se trouve juste après la cour Pasteur sur la
+      gauche), l’entrée est à gauche de la cour :
+
+        - au cinquième étage, derrière la porte en face en allant tout de suite
+          à gauche en sortant de l’ascenseur se trouvent les relations
+          entreprises, dirigées par Laurent Trébulle, assisté par Audrey Paris.
 
 Quelles sont les personnes de l'administration à contacter ?
     TODO
