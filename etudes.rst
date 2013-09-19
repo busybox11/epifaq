@@ -51,12 +51,12 @@ Quand puis-je faire mes études à l'étranger ?
     Lors du cursus, vous avez l'obligation d'effectuer au moins un semestre à
     l'étranger. Il existe plusieurs solutions à différents moments de votre
     scolarité.
-    
+
     Le second semestre de SPÉ peut être effectué à l'étranger dans une des
     universités partenaires de l'EPITA. Parmi ces dernières, on peut
     généralement compter :
 
-    - Stellenbosch University en Afrique du sud (http://www.sun.ac.za) 
+    - Stellenbosch University en Afrique du sud (http://www.sun.ac.za)
     - Staffordshire University en Angleterre (http://www.staffs.ac.uk)
     - Griffith College Dublin en Irlande (http://www.gcd.ie)
     - Jiao Tong University en Chine (http://en.sjtu.edu.cn/)
@@ -81,7 +81,7 @@ Quand puis-je faire mes études à l'étranger ?
     l'étranger. Ce qui serait dommage.
 
 Où se trouvent les locaux de l'administration de l'école ?
-    Sur le campus de *Villejuif*, tout de suite en entrant dans le bâtiment par
+    Sur le campus de **Villejuif**, tout de suite en entrant dans le bâtiment par
     la porte principale, vous avez le bureau du gardien, et, juste derrière, le
     bureau de la responsable du site, Josiane Rinaldi. Ensuite, la majorité
     des bureaux se trouvent le long du couloir vitré que vous avez directement
@@ -102,58 +102,47 @@ Où se trouvent les locaux de l'administration de l'école ?
     la reprographie juste en face de l’escalier gauche du bâtiment, et, au
     milieu du couloir le local du Bocal pour Villejuif.
 
-    Sur le campus du *Kremlin-Bicêtre*, les bureaux de l’administration sont
+    .. figure:: map-kb.svg
+        :width: 100%
+        :alt: Carte du campus KB
+
+        Vue générale du campus du Kremlin-Bicêtre. Les flèches représentent les
+        portes d’entrées ou les passages.
+
+    Sur le campus du **Kremlin-Bicêtre**, les bureaux de l’administration sont
     éclatés dans plusieurs bâtiment différents :
 
-    - dans le bâtiment Voltaire (celui qui donne sur le périph) :
-
-        - vous avez tout d’abord l’accueil qui se trouve dans le bureau en
-          verre en plein milieu de l’entrée lorsque vous rentrez dans le
-          bâtiment côté rue Voltaire (périph).
-        - ensuite, lorsque vous entrez côté rue Pasteur par l’entrée de
-          droite, derrière la porte qui se situe tout de suite à droite se
-          trouvent les bureaux de la pédagogie du cycle ingénieur et la
-          direction de l’école. Dans le sens des aiguilles d’une montre vous y
-          trouverez : le bureau du responsable du cursus apprentissage, Yannick
-          Goix et de la secrétaire pédagogie du cycle ingénieur, Assia
-          Touil-Spicher, le bureau du responsable du cycle ingénieur, Christian
-          Dujardin, le bureau des assistantes pour le cycle ingénieur : Marion
-          Ormancey pour les Ing1 et Sandrine Caurand pour les Ing2 et Ing3 et
-          du responsable des absences et de la reprographie pour le campus du
-          KB, Pedro Miranda, le bureau de Joël Courtois, directeur de l’école,
-          et, enfin, le bureau de la secrétaire de direction, Sandrine
-          Maingourd,
-        - au premier étage, derrière l’escalier qui se trouve juste en face de
-          l’entrée gauche rue Pasteur, se trouve le laboratoire assistants et,
-          en face de celui-ci, le bureau de Fabrice Bardèche, vice-président du
-          groupe IONIS,
-        - enfin, côté Voltaire, tout de suite à gauche en entrant depuis la rue
-          Voltaire, à gauche de l’escalier se trouve le bureau des
-          relations internationales, des masters internationaux et des
-          associations, dirigé par Christophe Rouvrais,
-
-    - dans la cour Pasteur, juste à gauche de la descente vers l’under, vous
-      trouverez le bureau du responsable du site et de la logistique pour le
-      campus du KB,
-
-    - dans le bâtiment X, côté cour Pasteur (la grande cour en face du
-      bâtiment Voltaire), accessible par les deux escaliers qui montent juste à
-      droite de la cafétéria :
-
-        - l’escalier en colimaçon qui descend tout de suite à gauche de
-          l’escalier gauche est l’accès vers le Bocal,
-        - dans le couloir derrière la porte en face de l’entrée de l’escalier
-          de droite, vous trouverez les bureaux des responsables de la
-          communication de l’école, où travaillent Isabelle Ducastel, Karine
-          Gounot et Céline Happert et la comptabilité de l’école,
-
-    - dans le bâtiment X, cour Paritalie (en remontant la rue Pasteur vers
-      l’Ouest, c’est la cour qui se trouve juste après la cour Pasteur sur la
-      gauche), l’entrée est à gauche de la cour :
-
-        - au cinquième étage, derrière la porte en face en allant tout de suite
-          à gauche en sortant de l’ascenseur se trouvent les relations
-          entreprises, dirigées par Laurent Trébulle, assisté par Audrey Paris.
+    - tout d’abord *l’accueil* qui pourra vous aidez à trouver les personnes
+      adéquate se trouve en **1**,
+    - la *direction* de l’école se trouve au point **2** : Joël Courtois,
+      directeur de l’école travaille dans le second bureau à droite en entrant
+      et sa secrétaire, Sandrine Maingourd, dans le premier sur la droite,
+    - le directeur de la *pédagogie* du cycle ingénieur, Christian Dujardin, se
+      situe au point **2**, dans le second bureau sur la gauche, et est assisté
+      par sa secrétaire, Assia Touil-Spicher, qui se trouve dans le premier
+      bureau sur la gauche et de deux assistantes : Marion Ormancey pour les
+      Ing1 et Sandrine Caurand pour les Ing2 et Ing3, qui sont toutes les deux
+      dans le bureau en face lorsque vous entrez en **2**,
+    - le responsable des *absences* et de la *reprographie* sur le site du KB,
+      Pedro Miranda, se trouve également en **2**, dans le bureau face à
+      l’entrée,
+    - au premier étage du bâtiment Voltaire, derrière l’escalier qui se trouve
+      juste en face de l’entrée gauche rue Pasteur, se trouve le laboratoire
+      assistants et, en face de celui-ci, le bureau de Fabrice Bardèche,
+      *vice-président du groupe* IONIS,
+    - en **3**, se trouve le bureau des *relations internationales*, *masters
+      internationaux* et des *associations*, dirigé par Christophe Rouvrais,
+    - les *relations entreprises*, dirigées par Laurent Trébulle, assisté par
+      Audrey Paris, se trouvent en entrant côté **4**, au cinquième étage, tout
+      de suite à gauche en sortant de l’ascenseur,
+    - vous trouverez les responsables de la *communication*, Karine Gounot,
+      Isabelle Ducastel et Céline Happert et la comptabilité de l’école dans
+      l’aile **5b**, accessible par l’entrée notée **5a** en haut de l’escalier
+      qui vient de la cour Pasteur,
+    - le *Bocal* se situe en bas de l’escalier en colimaçon noté **6**,
+      accessible en haut de l’escalier qui se trouve juste à droite de la
+      cafétéria,
+    - enfin, le *responsable du site* et de la *logistique* se trouve en **7**.
 
 Quelles sont les personnes de l'administration à contacter ?
     TODO
