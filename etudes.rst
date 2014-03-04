@@ -81,68 +81,105 @@ Quand puis-je faire mes études à l'étranger ?
     l'étranger. Ce qui serait dommage.
 
 Où se trouvent les locaux de l'administration de l'école ?
-    Sur le campus de **Villejuif**, tout de suite en entrant dans le bâtiment par
-    la porte principale, vous avez le bureau du gardien, et, juste derrière, le
-    bureau de la responsable du site, Josiane Rinaldi. Ensuite, la majorité
-    des bureaux se trouvent le long du couloir vitré que vous avez directement
-    devant vous en entrant dans le bâtiment. De gauche à droite, vous avez :
+    Sur le campus de **Villejuif**, tout de suite en entrant dans le bâtiment
+    par la porte principale, vous avez le bureau du gardien, et, juste
+    derrière, le bureau de la responsable du site, Josiane Rinaldi. Ensuite, la
+    majorité des bureaux se trouvent le long du couloir vitré que vous avez
+    directement devant vous en entrant dans le bâtiment. De gauche à droite,
+    vous avez :
 
-    - le bureau des professeurs d’anglais, qui sert aussi ponctuellement pour
-      la communication et l’ingénierie,
-    - le bureau des responsables du module mathématiques, Olivier Rodot, et
-      algorithmique, Christophe Boullay,
-    - le bureau de Claudine Cavatorta, responsable du cycle préparatoire,
-    - le bureau de Chantal Schmitt, secrétaire pédagogique et Alain Delage,
-      responsable des absences et de la reprographie sur le campus de VJ,
-    - le bureau de Claire Couery, secrétaire pédagogique et responsable de la
-      bibliothèque de VJ.
+    - le bureau des professeurs d'anglais, qui sert aussi ponctuellement pour
+      la communication et l'ingénierie,
+    - le bureau des responsables du module algorithmique, Christophe Boullay et
+      Martin van Laere,
+    - le bureau de Claudine Cavatorta, directrice des études du cycle
+      préparatoire,
+    - le bureau de Chantal Schmitt, secrétaire pédagogique et de Marie Sempéré,
+      assistante de direction,
+    - le bureau d'Olivier Rodot, responsable du module mathématique et d'Alain
+      Delage, responsable des absences et de la reprographie sur le campus de
+      VJ.
 
     Ensuite au deuxième étage, à la place de ce qui devrait être la salle 201,
     se trouve la salle des professeurs. Et enfin, au sous-sol, vous trouverez
-    la reprographie juste en face de l’escalier gauche du bâtiment, et, au
+    la reprographie juste en face de l'escalier gauche du bâtiment, et, au
     milieu du couloir le local du Bocal pour Villejuif.
+
+    Sur le campus du **Kremlin-Bicêtre**, les bureaux de l'administration sont
+    éclatés dans plusieurs bâtiment différents :
 
     .. figure:: map-kb.svg
         :width: 100%
         :alt: Carte du campus KB
 
         Vue générale du campus du Kremlin-Bicêtre. Les flèches représentent les
-        portes d’entrées ou les passages.
+        portes d'entrées ou les passages.
 
-    Sur le campus du **Kremlin-Bicêtre**, les bureaux de l’administration sont
-    éclatés dans plusieurs bâtiment différents :
+    - Dans le bâtiment *Voltaire* (celui qui donne sur le périphérique) :
 
-    - tout d’abord *l’accueil* qui pourra vous aidez à trouver les personnes
-      adéquate se trouve en **1**,
-    - la *direction* de l’école se trouve au point **2** : Joël Courtois,
-      directeur de l’école travaille dans le second bureau à droite en entrant
-      et sa secrétaire, Sandrine Maingourd, dans le premier sur la droite,
-    - le directeur de la *pédagogie* du cycle ingénieur, Christian Dujardin, se
-      situe au point **2**, dans le second bureau sur la gauche, et est assisté
-      par sa secrétaire, Assia Touil-Spicher, qui se trouve dans le premier
-      bureau sur la gauche et de deux assistantes : Marion Ormancey pour les
-      Ing1 et Sandrine Caurand pour les Ing2 et Ing3, qui sont toutes les deux
-      dans le bureau en face lorsque vous entrez en **2**,
-    - le responsable des *absences* et de la *reprographie* sur le site du KB,
-      Pedro Miranda, se trouve également en **2**, dans le bureau face à
-      l’entrée,
-    - au premier étage du bâtiment Voltaire, derrière l’escalier qui se trouve
-      juste en face de l’entrée gauche rue Pasteur, se trouve le laboratoire
-      assistants et, en face de celui-ci, le bureau de Fabrice Bardèche,
-      *vice-président du groupe* IONIS,
-    - en **3**, se trouve le bureau des *relations internationales*, *masters
-      internationaux* et des *associations*, dirigé par Christophe Rouvrais,
-    - les *relations entreprises*, dirigées par Laurent Trébulle, assisté par
-      Audrey Paris, se trouvent en entrant côté **4**, au cinquième étage, tout
-      de suite à gauche en sortant de l’ascenseur,
-    - vous trouverez les responsables de la *communication*, Karine Gounot,
-      Isabelle Ducastel et Céline Happert et la comptabilité de l’école dans
-      l’aile **5b**, accessible par l’entrée notée **5a** en haut de l’escalier
-      qui vient de la cour Pasteur,
-    - le *Bocal* se situe en bas de l’escalier en colimaçon noté **6**,
-      accessible en haut de l’escalier qui se trouve juste à droite de la
-      cafétéria,
-    - enfin, le *responsable du site* et de la *logistique* se trouve en **7**.
+      - tout d'abord *l'accueil* qui pourra vous aidez à trouver les personnes
+        adéquate se trouve en **1**, juste en face de l'entrée lorsque vous
+        rentrez dans le bâtiment côté rue Voltaire
+      - Les bureaux de la *pédagogie du cycle ingénieur* et la *direction de
+        l'école* se trouvent en **2**, c'est à dire lorsque vous entrez côté
+        rue Pasteur par l'entrée de droite, derrière la porte qui se situe tout
+        de suite à droite.
+        Vous y trouverez (dans le sens des aiguilles d'une montre) : le bureau
+        du *responsable du cursus apprentissage*, Yannick Goix et de l'adjointe
+        à la direction des études du cycle ingénieur, Assia Touil-Spicher, le
+        bureau du *directeur des études du cycle ingénieur*, Christian
+        Dujardin, le bureau de la *responsable pédagogique*, Hélène Vaury, le
+        bureau des *assistantes pour le cycle ingénieur* (Marion Ormancey pour
+        les Ing1 et Sandrine Caurand pour les Ing2 et Ing3), de l'*appariteur
+        et responsable des absences*, Pedro Miranda, et de la *responsable de
+        la vie associative, Anne-Sophie Pachet*. Enfin, le bureau de Joël
+        Courtois, *directeur de l'école*, et le bureau de l'*assistante de
+        direction*, Sandrine Maingourd,
+
+      - en **3**, se trouve le bureau des *relations internationales et du
+        développement*, dirigé
+        par Christophe Rouvrais, tout de suite à gauche en entrant depuis la
+        rue voltaire, à gauche de l'escalier.
+      - au premier étage, derrière l'escalier qui se trouve juste en face de
+        l'entrée gauche rue Pasteur (en **3**), se trouve le *laboratoire
+        assistants* et, en face de celui-ci, le bureau de Fabrice Bardèche,
+        vice-président du groupe IONIS, et à gauche, le bureau de Rabih Haddad,
+        *responsable des masters internationaux*
+
+    - Dans la cour Pasteur, juste à gauche de la descente vers l'under, vous
+      trouverez le bureau du *responsable du site et de la logistique* pour le
+      campus du KB (en **7**),
+
+    - Dans le bâtiment X, côté cour Pasteur (la grande cour en face du bâtiment
+      Voltaire), accessible par les deux escaliers qui montent juste à droite
+      de la cafétéria :
+
+      - l'escalier en colimaçon qui descend tout de suite à gauche de
+        l'escalier gauche est l'accès vers le *Bocal* (à côté de **6**),
+      - dans le couloir derrière la porte en face de l'entrée de l'escalier de
+        droite, vous trouverez les bureaux des *responsables de la
+        communication* de l'école, où travaillent Isabelle Ducastel, Karine
+        Gounot, Claire Couëry et Céline Happert, puis la *comptabilité* de
+        l'école au fond du couloir (en **5a**).
+
+    - Dans le bâtiment X, cour Paritalie (en remontant la rue Pasteur vers
+      l'Ouest, c'est la cour qui se trouve juste après la cour Pasteur sur la
+      gauche), l'entrée est à gauche de la cour :
+
+      - au deuxième étage, à droite en sortant de l'ascenseur, se trouve les
+        bureaux du *LRDE* (Laboratoire de Recherche et Développement de
+        l'EPITA), dirigé par Olivier Ricou,
+      - toujours au cinquième étage, à droite en sortant de l'ascenseur, se
+        trouvent les bureaux de *3IE* (Institut d'Innovation Informatique de
+        l'EPITA), dirigé par Stéphane Garnier, et l'incubateur-accélérateur de
+        l'EPITA, *StartUp42*, dirigé par Danier Jarjoura,
+      - au cinquième étage, derrière la porte en face en allant tout de suite à
+        gauche en sortant de l'ascenseur (**4**) se trouvent les *relations
+        entreprises*, dirigées par Laurent Trébulle, assisté par Audrey Paris.
+
+    - Dans le bâtiment B, cour Paritalie, au rez-de-chaussée, le *LSE*
+      (Laboratoire Système de l'EPITA) dirigé par Marwan Burelle.
+
 
 Quelles sont les personnes de l'administration à contacter ?
     TODO
@@ -195,7 +232,7 @@ Cycle préparatoire (SUP/SPÉ)
 Quel matériel pour les cours ?
     Aucun matériel particulier n'est demandé pour les cours, libre à vous
     d'utiliser feuilles, cahiers et stylos comme bon vous semble.
-    
+
 Donc je peux prendre mon laptop pendant les cours ?
     Non, les ordinateurs et téléphones portables sont interdits pendant les
     cours et les TD, que ce soit en SUP ou en SPÉ. Par contre rien ne vous
