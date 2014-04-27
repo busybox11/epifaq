@@ -40,24 +40,26 @@ Qu'est-ce que ...
 ... le rack ?
     Le rack est un disque dur dans un boitier spécial qui permet de se brancher
     à n'importe quelle machine de l'école. Par défaut l'école vous fournit un
-    boitier contenant un disque dur de 500 Go, dont environ 200 Go sont
-    utilisés par le *dump* (voire en dessous) et 300 Go sont disponibles pour
+    boitier contenant un disque dur de 1 To, dont environ 200 Go sont
+    utilisés par le *dump* (voire en dessous) et 700 Go sont disponibles pour
     vous installer un autre OS si vous le souhaitez.
 
 ... le dump ?
     C'est le nom donné au contenu par défaut du disque du rack. Si vous n'avez
     rien modifié à votre rack, vous utilisez normalement un des 3 systèmes
-    présent sur le dump du bocal. Ce dump change tous les ans - pour l'année
-    scolaire 2012-2013, il est composé de 3 systèmes d'exploitations :
+    présent sur le dump des ACU. Ce dump change tous les ans - pour l'année
+    scolaire 2013-2014, il est composé de 3 systèmes d'exploitations :
 
     - Un Windows 7 x64 avec Visual Studio et des outils de développement OCaml
-    - Un Linux OpenSuse avec tous les outils nécessaires pour faire du C, du
+    - Un FreeBSD 9.1 avec tous les outils nécessaires pour faire du C, du
       C++, de l'OCaml et du Java
-    - Une partition *exam* utilisée pour les examens de programmation se
-      passant en salle machine. Elle contient à peu près la même chose que la
-      partition Linux normale. Vous ne pouvez pas l'utiliser hors des examens.
-    - Une entrée *redump* dans le menu de boot qui vous permet de remettre à
-      zéro votre rack à partir d'une copie du dump située sur le disque
+    - Deux partitions *exam* utilisées pour les examens de programmation se
+      passant en salle machine. Elles contiennent à peu près la même chose que
+      les partitions sus-citées. Vous ne pouvez pas les utiliser hors des
+      examens.
+    - En cas de divers problèmes nécéssitant une remise à zéro il existe une
+      machine de *redump* au Kremlin Bicêtre qui est au premier étage du
+      bâtiment voltaire.
 
 ... la feuille de passwords ?
     Elle vous est donnée en début de scolarité par le bocal. Ne la perdez
@@ -143,7 +145,7 @@ Comment ...
     Sous Windows, la fonctionnalité est disponible de base si vous avez mis un
     mot de passe correct à votre session : le raccourci clavier est Win+L.
 
-    Sous Linux, si vous utilisez la distribution installée par défaut sur votre
+    Sous UNIX, si vous utilisez la distribution installée par défaut sur votre
     rack, vous pouvez lancer la commande ``zlock`` et cliquer sur la fenêtre
     qui apparait pour verrouiller votre session. N'oubliez surtout pas de
     cliquer sur cette fenêtre, sans quoi votre session resterait ouverte !

@@ -185,12 +185,29 @@ Quelles sont les personnes de l'administration à contacter ?
     TODO
 
 Qu'est-ce qu'une journée de TIG ?
-    TODO
+    Une journée de TIG est une journée où vous effectuerez divers travaux
+    d'intérêt général (nettoyage de salles, vérification du fonctionnement des
+    bornes wifi,etc.).
+    Les journées de TIG vous infligées pour deux raisons :
+
+    - Non respect des règles du PIE (débranchement d'un câble réseau, jeu en
+      salle machine avant 19h, etc.), celles-ci vous sont infligées par le
+      Bocal. Vous avez le choix de la date, mais tant que vous n'avez pas
+      décidé d'une date vous serez close compte.
+    - Absences répétées, celles-ci vous sont infligées par l'admnistration. La
+      date vous est imposée, elles ont lieu pendant les vacances.
+
+    Une journée de TIG commence à 9h et finit à 18h avec une pause entre 13h et
+    14h, en cas de non présence à la journée de TIG celle-ci est considérée
+    comme non faite et donc doublée.
+    Pour les TIG infligées par l'administration, il est à noter qu'en cas
+    d'absences en cours répétées il sera question de plusieurs jours de TIG et
+    non une journée.
 
 Où trouver des annales des partiels et autres examens de l'école ?
     Mastercorp [2]_ est un service collaboratif de partage d'annales et de
     documents de cours pour les étudiants de l'école, de la SUP à l'ING3. Vous
-    pourrez y trouver de nombreuses choses, parfois vielles, parfois fausses -
+    pourrez y trouver de nombreuses choses, parfois vieilles, parfois fausses -
     la qualité est assez variable. Cependant, il s'agit de l'archive publique
     la plus complète.
 
@@ -275,7 +292,7 @@ Où avoir les informations données par l'administration ?
     - Le panneau d'affichage au rez-de-chaussée du bâtiment principal près de la
       photocopieuse (derrière l'ascenceur)
     - Le mur face aux bureaux de l'administration (toujours au rez-de-chaussée)
-    - Votre boîte mail EPITA. Vous êtes sensés avoir pris connaissance de tous
+    - Votre boîte mail EPITA. Vous êtes censés avoir pris connaissance de tous
       les mails qui vous sont envoyés sur cette boîte.
 
 Cycle ingénieur (ING1/ING2/ING3)
