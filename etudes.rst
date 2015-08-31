@@ -243,8 +243,8 @@ Qui sont les assistants ?
 
     - Les ACDC (« Assistants C Dièse Caml »), des ING1 qui dirigent les TPs
       d'informatique pratique C# et OCaml en InfoSup ;
-    - Les AOC (« Assistants Ocaml C »), des ING1 qui dirigent les TP
-      d'informatique pratique Ocaml et C en InfoSpé ;
+    - Les ASM (« Assistants Spé Machine »), des ING1 qui dirigent les TP
+      d'informatique pratique C et Unix en InfoSpé ;
     - Les YAKA (« Yet Another Kind of Assistant »), des ING2 responsables de
       l'IP pendant le second semestre de l'ING1. Ils enseignent le C++, le
       Java, le SQL et la conception objet.
@@ -258,7 +258,7 @@ Comment devenir assistant ?
 
     - ACDC : Christophe Boullay envoie une news de recrutement au début de
       l'année ;
-    - AOC : Marwan envoie une news de recrutement au début de l'année ;
+    - ASM : Marwan envoie une news de recrutement au début de l'année ;
     - YAKA & ACU : Les anciens assistants vous indiqueront la procédure à
       suivre et vous passerez des entretiens et un QCM technique.
 
@@ -298,7 +298,7 @@ Où les cours ont-ils lieu ?
 Les cours sont-ils obligatoires ?
     Oui, en prépa vous devez être présent à tous les cours, TD et TP (sauf
     justification valable). Toute absence non justifiée vous faire perdre des
-    points sur la note d'assiduité (-2 par tranche d'1h30) ce qui peut
+    points sur la note d'assiduité (-2 par tranche d'1h) ce qui peut
     éventuellement déboucher sur des journées de TIG. Vous trouverez plus
     d'informations sur la note d'assiduité dans le livret d'accueil distribué en
     début d'année.
