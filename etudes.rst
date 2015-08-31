@@ -60,7 +60,7 @@ Quand puis-je faire mes études à l'étranger ?
     - Staffordshire University en Angleterre (http://www.staffs.ac.uk)
     - Griffith College Dublin en Irlande (http://www.gcd.ie)
     - Jiao Tong University en Chine (http://en.sjtu.edu.cn/)
-    - D'autres en fonction de l'alignement des planètes
+    - D'autres en fonction de l'alignement des planètes (http://www.epita.fr/international-partenariats-internationaux.aspx)
 
     Le semestre à l'étranger peut aussi s'effectuer lors d'un des stages du
     cycle ingénieur (il faut qu'il dure un minimum de temps pour valider
@@ -88,22 +88,26 @@ Où se trouvent les locaux de l'administration de l'école ?
     directement devant vous en entrant dans le bâtiment. De gauche à droite,
     vous avez :
 
+    - le bureau des responsable du module mathématique, Olivier Rodot et Christel 
+      Trémoulet,
     - le bureau des professeurs d'anglais, qui sert aussi ponctuellement pour
       la communication et l'ingénierie,
-    - le bureau des responsables du module algorithmique, Christophe Boullay et
-      Martin van Laere,
+    - le bureau de Christophe Boullay, responsable du module algorithmique et 
+      vice-directeur des études du cycle préparatoire.
+    - le bureau des autres responsables du module algorithmique, Martin van Laere 
+      et Nathalie Bouquet,
     - le bureau de Claudine Cavatorta, directrice des études du cycle
       préparatoire,
     - le bureau de Chantal Schmitt, secrétaire pédagogique et de Marie Sempéré,
-      assistante de direction,
-    - le bureau d'Olivier Rodot, responsable du module mathématique et d'Alain
-      Delage, responsable des absences et de la reprographie sur le campus de
-      VJ.
+      assistante de direction et d'Alain Delage, responsable des absences et de 
+      la reprographie sur le campus de VJ, ce bureaue sert aussi ponctuellement 
+      pour la communication et l'ingénierie,
 
-    Ensuite au deuxième étage, à la place de ce qui devrait être la salle 201,
-    se trouve la salle des professeurs. Et enfin, au sous-sol, vous trouverez
-    la reprographie juste en face de l'escalier gauche du bâtiment, et, au
-    milieu du couloir le local du Bocal pour Villejuif.
+    Ensuite au premier étage, à la place de ce qui devrait être la salle 101, 
+    se trouve le bureau des professeurs d'anglais.Au deuxième étage, à la place 
+    de ce qui devrait être la salle 201, se trouve la salle des professeurs. Et 
+    enfin, au sous-sol, vous trouverez la reprographie juste en face de l'escalier 
+    gauche du bâtiment, et, au milieu du couloir le local du Bocal pour Villejuif.
 
     Sur le campus du **Kremlin-Bicêtre**, les bureaux de l'administration sont
     éclatés dans plusieurs bâtiment différents :
