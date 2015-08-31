@@ -180,20 +180,32 @@ Comment ...
     comment configurer les serveurs d'entrée/sortie de votre client :
 
     - Serveur d'entrée :
-      | Type : IMAP
-      | Host : outlook.office365.com
-      | Port : 993
-      | Sécurité : SSL
-      | Username : ``email@epita.fr`` (voir plus haut pour la syntaxe)
-      | Pass : password UNIX
+      
+      - Type : IMAP
+
+      - Host : outlook.office365.com
+
+      - Port : 993
+
+      - Sécurité : SSL
+
+      - Username : ``email@epita.fr`` (voir plus haut pour la syntaxe)
+
+      - Pass : password UNIX
 
     - Serveur de sortie :
-      | Type : SMTP
-      | Host : smtp.office365.com
-      | Port : 587
-      | Sécurité : Start/TLS
-      | Username : ``email@epita.fr``
-      | Pass : password UNIX
+
+      - Type : SMTP
+
+      - Host : smtp.office365.com
+
+      - Port : 587
+
+      - Sécurité : Start/TLS
+
+      - Username : ``email@epita.fr``
+
+      - Pass : password UNIX
 
 ... faire suivre ses mails EPITA ?
     Rendez-vous sur votre boîte mail (https://login.microsoftonline.com).

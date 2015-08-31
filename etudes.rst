@@ -104,7 +104,7 @@ Où se trouvent les locaux de l'administration de l'école ?
       pour la communication et l'ingénierie,
 
     Ensuite au premier étage, à la place de ce qui devrait être la salle 101, 
-    se trouve le bureau des professeurs d'anglais.Au deuxième étage, à la place 
+    se trouve le bureau des professeurs d'anglais. Au deuxième étage, à la place 
     de ce qui devrait être la salle 201, se trouve la salle des professeurs. Et 
     enfin, au sous-sol, vous trouverez la reprographie juste en face de l'escalier 
     gauche du bâtiment, et, au milieu du couloir le local du Bocal pour Villejuif.
