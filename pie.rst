@@ -175,6 +175,24 @@ Comment ...
     l'URL est https://login.microsoftonline.com/ . Entrez comme *Compte Microsoft*
     ``email@epita.fr`` (donc, souvent, ``prenom.nom@epita.fr``), et comme *Mot
     de passe* votre password UNIX.
+    Vous avez aussi la possibilité d'utiliser votre boîte mail à partir d'un autre 
+    client mail comme *Thunderbird* en utilisant les protocoles IMAP et SMTP, voici 
+    comment configurer les serveurs d'entrée/sortie de votre client :
+
+    - Serveur d'entrée :
+      Type : IMAP
+      Host : outlook.office365.com
+      Port : 993
+      Sécurité : SSL
+      Username : ``email@epita.fr`` (voir plus haut pour la syntaxe)
+      Pass : password UNIX
+    - Serveur de sortie :
+      Type : SMTP
+      Host : smtp.office365.com
+      Port : 587
+      Sécurité : Start/TLS
+      Username : ``email@epita.fr``
+      Pass : password UNIX
 
 ... faire suivre ses mails EPITA ?
     Rendez-vous sur votre boîte mail (https://login.microsoftonline.com).
