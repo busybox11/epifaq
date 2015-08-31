@@ -98,10 +98,10 @@ Où se trouvent les locaux de l'administration de l'école ?
       et Nathalie Bouquet,
     - le bureau de Claudine Cavatorta, directrice des études du cycle
       préparatoire,
-    - le bureau de Chantal Schmitt, secrétaire pédagogique et de Marie Sempéré,
-      assistante de direction et d'Alain Delage, responsable des absences et de 
-      la reprographie sur le campus de VJ, ce bureaue sert aussi ponctuellement 
-      pour la communication et l'ingénierie,
+    - le bureau de Chantal Schmitt, secrétaire pédagogique et de Anne-Sophie 
+      Poilleaux, assistante de direction et d'Alain Delage, responsable des 
+      absences et de la reprographie sur le campus de VJ, ce bureaue sert aussi 
+      ponctuellement pour la communication et l'ingénierie,
 
     Ensuite au premier étage, à la place de ce qui devrait être la salle 101, 
     se trouve le bureau des professeurs d'anglais. Au deuxième étage, à la place 
