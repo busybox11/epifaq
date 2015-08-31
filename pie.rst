@@ -59,7 +59,9 @@ Qu'est-ce que ...
       examens.
     - En cas de divers problèmes nécéssitant une remise à zéro il existe une
       machine de *redump* au Kremlin Bicêtre qui est au premier étage du
-      bâtiment voltaire.
+      bâtiment voltaire. Vous pouvez aussi dans les cas où le problème n'est 
+      pas lié au boot de votre rack *redump* celui-ci directement depuis 
+      l'interface de boot.
 
 ... la feuille de passwords ?
     Elle vous est donnée en début de scolarité par le bocal. Ne la perdez
