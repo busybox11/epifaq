@@ -24,10 +24,10 @@ Quelles sont les périodes de stage ?
     L'étudiant "normal" de l'EPITA réalisera pendant sa scolarité 3 stages :
 
     - Un stage à la fin du cycle préparatoire, de 2 à 3 mois, pendant les
-      vacances d'été terminant l'année de SPÉ
+      vacances d'été terminant l'année de SPÉ;
     - Un deuxième stage, plus long (4 à 6 mois), après l'année d'ING1. Il peut
       commencer de Juillet à Septembre selon les cas, et se termine de Janvier
-      à Février.
+      à Février;
     - Le stage de fin d'études, commençant en février l'année de l'ING3 et
       durant lui 5 à 6 mois.
 
@@ -39,8 +39,8 @@ Où est disponible mon emploi du temps ?
     Pour trouver votre emploi du temps sur Chronos, parcourez l'arbre à gauche
     de la page, en commençant par aller dans *Trainees* puis *EPITA*.
 
-    Chronos étant assez peu pratique (vous le découvrirez bien vite...), des
-    étudiants ont créés de nombreuses applications permettant de consulter son
+    Chronos étant assez peu pratique (vous le découvrirez bien vite…), des
+    étudiants ont créé de nombreuses applications permettant de consulter son
     emploi du temps plus facilement. Vous pouvez par exemple utiliser
     l'application Epilife [1]_ sur votre téléphone Android, ou encore le site
     http://ichronos.in.
@@ -64,7 +64,7 @@ Quand puis-je faire mes études à l'étranger ?
 
     Le semestre à l'étranger peut aussi s'effectuer lors d'un des stages du
     cycle ingénieur (il faut qu'il dure un minimum de temps pour valider
-    l'étranger). Par exemple, avec un stage aux États-unis, c'est bon.
+    l'étranger). Par exemple, avec un stage aux États-Unis, c'est bon.
 
     La dernière possibilité, qui est plutôt une solution de secours si vous
     n'avez pas pu faire les deux précédentes, est de faire un semestre dans
@@ -73,8 +73,8 @@ Quand puis-je faire mes études à l'étranger ?
 
     Il est évident que vous n'êtes pas restreint à un semestre à l'étranger. Par
     exemple vous pouvez faire le semestre de SPÉ en Irlande et faire vos stages
-    aux États-unis. Un petit conseil cependant : si vous faites le semestre à
-    l'étranger de SPÉ vous êtes libéré de cette contrainte. Par exemple vous
+    aux États-Unis. Un petit conseil cependant : si vous faites le semestre à
+    l'étranger en SPÉ vous êtes libéré de cette contrainte. Par exemple, vous
     envisagez peut-être de faire votre stage de fin d'étude, et là une boite en
     France vous propose un stage de rêve (si, sur un malentendu, c'est
     possible). Vous ne pourriez pas l'accepter car vous seriez obligé d'aller à
@@ -213,8 +213,8 @@ Quelles sont les personnes de l'administration à contacter ?
 Qu'est-ce qu'une journée de TIG ?
     Une journée de TIG est une journée où vous effectuerez divers travaux
     d'intérêt général (nettoyage de salles, vérification du fonctionnement des
-    bornes wifi,etc.).
-    Les journées de TIG vous infligées pour deux raisons :
+    bornes wifi, etc.).
+    Les journées de TIG vous seront infligées pour deux raisons :
 
     - Non respect des règles du PIE (débranchement d'un câble réseau, jeu en
       salle machine avant 19h, etc.), celles-ci vous sont infligées par le
@@ -244,7 +244,7 @@ Où trouver des annales des partiels et autres examens de l'école ?
 .. [2] http://mastercorp.epita.eu/
 
 Qui sont les assistants ?
-    Les assistants sont des étudiants à EPITA qui donnent des cours ou des TPs
+    Les assistants sont des étudiants d'EPITA qui donnent des cours ou des TPs
     d'informatique pratique aux étudiants des promotions plus jeunes. Il y a en
     tout 4 types d'assistants :
 
@@ -264,8 +264,8 @@ Comment devenir assistant ?
     devez ni être en échec scolaire ni avoir passé un conseil de discipline.
 
     - ACDC : Christophe Boullay envoie une news de recrutement au début de
-      l'année ;
-    - ASM : Marwan envoie une news de recrutement au début de l'année ;
+      l'année;
+    - ASM : Marwan envoie une news de recrutement au début de l'année;
     - YAKA & ACU : Les anciens assistants vous indiqueront la procédure à
       suivre et vous passerez des entretiens et un QCM technique.
 
@@ -290,10 +290,10 @@ Qu'est-ce que le séminaire ?
     scolaire. Au programme il y a:
 
     - en SUP: 3h de math et 3h d'algorithmique (apprentissage des bases du
-      langage Caml) par jour avec des QCM le matin
+      langage Caml) par jour avec des QCM le matin;
     - en SPÉ: cours, TD et TP de THLR (Théorie des Langages Rationnels) la
       première semaine et conférences sur le thème "Recherche & Innovation" la
-      deuxième semaine
+      deuxième semaine.
 
     À la suite de ces 2 semaines de séminaire, les cours reprennent leur rythme
     normal jusqu'à la fin de l'année (hors période d'examens).

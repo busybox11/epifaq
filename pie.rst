@@ -83,18 +83,18 @@ Qu'est-ce que ...
       Wi-Fi de l'école. Nommé "SOCKS" parce qu'il servait dans le passé à se
       connecter aux proxies SOCKS de l'école, qui sont maintenant obsolètes.
     - Le password PPP : nécessaire pour se connecter à différents intranets
-      (intra Bocal, intra EPITECH). Nommé "PPP" parce qu'il étant dans le passé
+      (intra Bocal, intra EPITECH). Nommé "PPP" parce qu'il était auparavant
       utilisé pour se servir d'EPITA comme FAI via une ligne téléphonique.
     - L'UID : un numéro unique vous identifiant dans l'école. Sa seule vraie
       utilité est de s'en servir pour ouvrir les digicodes de l'école.
     - Le passcode : mot de passe numérique utilisé pour les digicodes.
 
     Essayez d'avoir toutes ces informations sur vous tant que vous ne les
-    connaissez pas par coeur - il serait bête de se retrouver coincé dehors
+    connaissez pas par coeur -- il serait bête de se retrouver coincé dehors
     parce que vous avez oublié votre UID ou votre passcode !
 
 ... Netsoul ?
-    Netsoul est un protocole réseau interne à EPITA et les écoles du groupe
+    Netsoul est un protocole réseau interne à EPITA et aux écoles du groupe
     IONIS. Lorsque vous vous connectez sur une machine de l'école, vous devez
     vous connecter à Netsoul pour vous identifier et avoir accès à Internet.
     Lorsque vous êtes connectés, vous pouvez vous servir de Netsoul pour
@@ -139,13 +139,13 @@ Comment ...
     informatique (pour téléphoner, aller boire quelque chose en dehors de la
     salle machine, etc.). Si cela arrive et que vous laissez votre session
     ouverte, n'importe qui passant dans les rangs de la salle machine peut
-    accèder au réseau de l'école en tant que vous, récupérer vos fichiers,
-    installer des virus sur votre rack, etc. Il est donc nécessaire de
-    verrouiller sa session avant de bouger de son poste, même si vous vous
+    accéder au réseau de l'école en se faisant passer pour vous, récupérer vos
+    fichiers, installer des virus sur votre rack, etc. Il est donc nécessaire
+    de verrouiller sa session avant de bouger de son poste, même si vous vous
     absentez pour moins d'une minute.
 
     Sous Windows, la fonctionnalité est disponible de base si vous avez mis un
-    mot de passe correct à votre session : le raccourci clavier est Win+L.
+    mot de passe à votre session : le raccourci clavier est Win+L.
 
     Sous UNIX, si vous utilisez la distribution installée par défaut sur votre
     rack, vous pouvez lancer la commande ``zlock`` et cliquer sur la fenêtre
@@ -153,7 +153,7 @@ Comment ...
     cliquer sur cette fenêtre, sans quoi votre session resterait ouverte !
 
     Si vous n'utilisez pas la distribution Linux fournie par le bocal,
-    installez au choix xtrlock ou slock, qui sont deux logiciels de
+    installez au choix xtrlock, i3lock ou slock, qui sont trois logiciels de
     verrouillage de session fonctionnant très bien.
 
 ... lire ses mails EPITA ?
