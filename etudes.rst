@@ -42,10 +42,14 @@ Où est disponible mon emploi du temps ?
     Chronos étant assez peu pratique (vous le découvrirez bien vite…), des
     étudiants ont créé de nombreuses applications permettant de consulter son
     emploi du temps plus facilement. Vous pouvez par exemple utiliser
-    l'application Epilife [1]_ sur votre téléphone Android, ou encore le site
-    http://ichronos.in.
+    les applications Epilife [1]_ [2]_ ou EpiTime [3]_ sur vos téléphones iOS et
+    Android, ou encore le site http://ichronos.in.
 
-.. [1] https://play.google.com/store/apps/details?id=com.iiie.epilife&hl=en
+.. [1] Android : https://play.google.com/store/apps/details?id=com.iiie.epilife
+
+.. [2] iOS : https://itunes.apple.com/fr/app/epilife/id437469369
+
+.. [3] https://play.google.com/store/apps/details?id=com.epitime
 
 Quand puis-je faire mes études à l'étranger ?
     Lors du cursus, vous avez l'obligation d'effectuer au moins un semestre à
@@ -231,7 +235,7 @@ Qu'est-ce qu'une journée de TIG ?
     non une journée.
 
 Où trouver des annales des partiels et autres examens de l'école ?
-    Mastercorp [2]_ est un service collaboratif de partage d'annales et de
+    Mastercorp [4]_ est un service collaboratif de partage d'annales et de
     documents de cours pour les étudiants de l'école, de la SUP à l'ING3. Vous
     pourrez y trouver de nombreuses choses, parfois vieilles, parfois fausses -
     la qualité est assez variable. Cependant, il s'agit de l'archive publique
@@ -241,7 +245,7 @@ Où trouver des annales des partiels et autres examens de l'école ?
     partiels, sujets, et notes de cours afin d'en faire profiter les promotions
     suivantes !
 
-.. [2] http://mastercorp.epita.eu/
+.. [4] http://mastercorp.epita.eu/
 
 Qui sont les assistants ?
     Les assistants sont des étudiants d'EPITA qui donnent des cours ou des TPs
