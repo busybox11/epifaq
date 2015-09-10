@@ -195,24 +195,25 @@ Quelles sont les personnes de l'administration à contacter ?
 
       - Justifications d'absences et retards : Alain Delage,
 
-      - Réservations de salles, modifications d'emploi du temps 
-        (avec l'accord du professeur donnant le cours évidemment) : Anne-Sophie 
-        Poilleaux,
+      - Réservations de salles, modifications d'emploi du temps (avec l'accord
+        du professeur donnant le cours évidemment) : Anne-Sophie Poilleaux,
 
-      - Réinscriptions ou justifications d'absences à des QCM : 
-        Chantal Schmitt,
+      - Réinscriptions ou justifications d'absences à des QCM : Chantal
+        Schmitt,
 
-      - Problèmes personnels, soucis liés au fonctionnements du 
-        cycle préparatoire, réorientation : Claudine Cavatorta,
+      - Problèmes personnels, soucis liés au fonctionnements du cycle
+        préparatoire, réorientation : Claudine Cavatorta,
 
-      - Éléments liés à une discipline en particulier : responsable(s) 
-        du module correspondant et/ou professeurs,
+      - Éléments liés à une discipline en particulier : responsable(s) du
+        module correspondant et/ou professeurs,
 
-      - Réservation ponctuelle d'un vidéo-projecteur ou d'un autre matériel en 
+      - Réservation ponctuelle d'un vidéo-projecteur ou d'un autre matériel en
         particulier : Josiane Rinaldi.
 
     - Pour la période de cycle ingénieur :
-      | TODO
+
+        .. todo::
+            Cette section de la FAQ n'a pas encore été rédigée :-(
 
 Qu'est-ce qu'une journée de TIG ?
     Une journée de TIG est une journée où vous effectuerez divers travaux
