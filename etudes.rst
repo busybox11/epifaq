@@ -274,6 +274,64 @@ Comment devenir assistant ?
     - YAKA & ACU : Les anciens assistants vous indiqueront la procédure à
       suivre et vous passerez des entretiens et un QCM technique.
 
+Quelles sont les différentes majeures ?
+
+    Lors du second semestre d'ING2, les élèves sont amenés à choisir une majeure
+    en fonction de goûts et projet professionnel. Ces dernières sont 
+    actuellement au nombre de 8 :
+
+    - GISTRE (Génie Informatique des Systèmes Temps Réels et Embarqués) :
+      C'est une majeure centrée sur toutes les problématiques liées à l'embarqué 
+      et au temps réel.
+      Les matières abordées dans cette majeure sont utlisées dans des domaines 
+      tels que les l'aéronotique, l'automobile, l'industrie spécialisée...
+      Au niveau des matières il y a de la robotique, de l'architecture, des 
+      enseignements centrés sur les problématiques de l'embarqué, du développement 
+      bas niveau (assembleur, C).
+
+    - SCIA (Sciences Cognitives et Informatique Avancée) :
+      Cette majeure demande des connaissances pointues et une certaine aisance 
+      en maths.
+      Les compétences en informatique sont également nécessaire car la majeure 
+      s'inscrit dans la continuité de l'ING1 en termes de langages étudiés.
+      Elle traite de sujets comme l'intelligence artificielle, la robotique...
+
+    - SRS : Systèmes, Réseaux et Sécurité
+      Les compétences en informatiques sont vraiment indispensables car de 
+      nombreux projets sont réalisés sur cette base.
+      Les matières enseignées tournent autour de la sécurité des systèmes et de 
+      la gestion des risques qui y sont liés.
+      
+    - SIGL (Systèmes d'Information et Génie Logiciel) :
+      Les enseignements sont centrés autour de l'ensemble des problématiques liées 
+      aux systèmes d'information.
+      Pour ce qui est des matières enseignées : Architecture, Big data, Génie Logiciel 
+      Assisté par Ordinateur, Cours de qualité, Gestion de projet.
+      
+    - MTI : (Multimédias et Technologies de l'information)
+      Les enseignements tournent autour des langages informatiques liés aux "nouveaux" 
+      acteurs du numérique (Android, iOS pour Apple et Windows), aux langages liés 
+      aux sites web (Javascript, PHP) et aux langages encore fortement utilisés 
+      de nos jours tels que le Java (J2E).
+      
+    - CSI : (Calcul Scientifique et Image) :
+      Cette majeure est orientée vers la recherche académique sur des thèmes liés au
+      traitement d'images et de la parole, à la manipulation d'automates.
+      Les étudiants travaillent en parallèle pour la grande majorité dans le laboratoire 
+      de recherche de l'école (LRDE).
+      Certains étudiants de cette majeure poursuivent leurs études vers un doctorat afin
+      de pouvoir effectuer un métier lié à a recherche.
+      
+    - GITM (Global IT Management) : 
+      Les enseignements de cette majeure sont dispensés en anglais.
+      Les enseignements étaient centrés sur les problématiques de maitrise d'oeuvre et 
+      d'ouvrage avec pour ambition de former des ingénieurs d'affaire et consultants.
+
+    - TCOM : Télécom et Réseaux :
+      Cette majeure a pour vocation de former des managers dans le domaine de la 
+      téléphonie et des réseaux. Pour ce qui est des matières enseignées : VoIP, Réseaux, 
+      Télécom, C
+
 Cycle préparatoire (SUP/SPÉ)
 ----------------------------
 
