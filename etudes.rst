@@ -43,7 +43,7 @@ Où est disponible mon emploi du temps ?
     étudiants ont créé de nombreuses applications permettant de consulter son
     emploi du temps plus facilement. Vous pouvez par exemple utiliser
     les applications Epilife [1]_ [2]_ ou EpiTime [3]_ sur vos téléphones iOS et
-    Android, ou encore le site http://ichronos.in.
+    Android, ou encore le site http://ichronos.net.
 
 .. [1] Android : https://play.google.com/store/apps/details?id=com.iiie.epilife
 
