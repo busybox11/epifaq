@@ -56,4 +56,5 @@ Liste des contributeurs à cette FAQ :
 - Jérémy Lefaure (promo 2016)
 - Antoine Bardoux (promo 2018)
 - Meven Courouble (promo 2019)
+- Yohann Leon (promo 2019)
 - Sandrine Maingourd (assistante de direction)
