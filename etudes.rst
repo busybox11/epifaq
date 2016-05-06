@@ -57,7 +57,7 @@ Comment se loger près d'EPITA ?
     il est recommandé de trouver un logement près d'EPITA. 
 
     Il y a plusieurs résidences étudiantes aux alentours du site de Villejuif (alias
-    VJ, cycle préparatoire)et du Kremlin-Bicêtre (alias KB, cycle ingénieur). Pour 
+    VJ, cycle préparatoire) et du Kremlin-Bicêtre (alias KB, cycle ingénieur). Pour 
     en citer quelques-unes :
 
     - Résidence Pierre-Gilles de Gennes (VJ) [1]_ : la résidence propose des T1 et T1bis
@@ -316,7 +316,7 @@ Quelles sont les différentes majeures ?
       c'est une majeure centrée sur toutes les problématiques liées à l'embarqué 
       et au temps réel.
       Les matières abordées dans cette majeure sont utilisées dans des domaines 
-      tels que les l'aéronautique, l'automobile, l'industrie spécialisée...
+      tels que l'aéronautique, l'automobile, l'industrie spécialisée...
       Au niveau des matières il y a de la robotique, de l'architecture, des 
       enseignements centrés sur les problématiques de l'embarqué, du développement 
       bas niveau (assembleur, C).
@@ -349,8 +349,8 @@ Quelles sont les différentes majeures ?
     - CSI : (Calcul Scientifique et Image) :
       cette majeure est orientée vers la recherche académique sur des thèmes liés au
       traitement d'images et de la parole, à la manipulation d'automates.
-      Les étudiants travaillent en parallèle pour la grande majorité dans le laboratoire 
-      de recherche de l'école (LRDE).
+      Il est à noter que faire partie du laboratoire  de recherche de l'école (LRDE)
+      est obligatoire pour chosir cette majeure.
       Certains étudiants de cette majeure poursuivent leurs études vers un doctorat afin
       de pouvoir effectuer un métier lié à la recherche.
       
