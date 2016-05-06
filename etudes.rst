@@ -51,6 +51,40 @@ Où est disponible mon emploi du temps ?
 
 .. [3] https://play.google.com/store/apps/details?id=com.epitime
 
+Comment se loger près d'EPITA ?
+    Si habiter assez loin d'EPITA n'est pas un problème en cycle préparatoire, cela 
+    devient difficile une fois en cycle ingénieur. C'est la raison pour laquelle 
+    il est recommandé de trouver un logement près d'EPITA. 
+
+    Il y a plusieurs résidences étudiantes aux alentours du site de Villejuif (alias
+    VJ, cycle préparatoire)et du Kremlin-Bicêtre (alias KB, cycle ingénieur). Pour 
+    en citer quelques-unes :
+
+    - Résidence Pierre-Gilles de Gennes (VJ) [1]_ : la résidence propose des T1 et T1bis
+      réservée en priorité aux étudiant IONIS. Elle est bien située et leloyer est 
+      correct. La connexion internet ADSL et les charges indispensables sont inclus
+      dans le loyer.
+    - Résidence Paris & Héloïse (VJ) [2]_ : la résidence propose des T1 et T1bis et est
+      située juste à côté de la ligne 7. Il est à noter que le loyer est 
+      légèrement au-dessus de la norme. Sont inclus dans le loyer en plus des
+      charges indispensables des services tels que le petit-déjeuners, le nettoyage
+      de l'appartement, l'internet fibre...
+    - Résidence Georges Mathé (VJ) [3]_ : cette résidence propose des T1 et T1bis à un 
+      loyer correct Cependant, elle n'a été construite que très récemment, nous 
+      n'avons donc que peu de retours. Néamoins, il est à noter que la connexion
+      internet est en supplément.
+    - Résidence Porte d'Italie (KB) [4]_ : parfait lorsque l'on se trouve en cycle
+      ingénieur, elle est située à une centaine de mètres de la ligne 7 et propose
+      des T1 et T1bis.
+
+.. [1] http://www.arpej.fr/residences/residence-pierre-gilles-de-gennes-2/
+
+.. [2] https://www.adele.org/residence/2238/paris-heloise-2238/
+
+.. [3] http://w2.fac-habitat.com/Georges-Mathe-Region-Ile-de-France/p/4/2/50/
+
+.. [4] http://www.arpej.fr/residences/residence-porte-ditalie/
+
 Quand puis-je faire mes études à l'étranger ?
     Lors du cursus, vous avez l'obligation d'effectuer au moins un semestre à
     l'étranger. Il existe plusieurs solutions à différents moments de votre
