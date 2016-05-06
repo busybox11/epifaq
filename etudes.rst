@@ -61,17 +61,17 @@ Comment se loger près d'EPITA ?
     en citer quelques-unes :
 
     - Résidence Pierre-Gilles de Gennes (VJ) [1]_ : la résidence propose des T1 et T1bis
-      réservée en priorité aux étudiant IONIS. Elle est bien située et leloyer est 
-      correct. La connexion internet ADSL et les charges indispensables sont inclus
+      réservée en priorité aux étudiants IONIS. Elle est bien située et le loyer est 
+      correct. La connexion internet ADSL et les charges indispensables sont inclues
       dans le loyer.
     - Résidence Paris & Héloïse (VJ) [2]_ : la résidence propose des T1 et T1bis et est
       située juste à côté de la ligne 7. Il est à noter que le loyer est 
       légèrement au-dessus de la norme. Sont inclus dans le loyer en plus des
-      charges indispensables des services tels que le petit-déjeuners, le nettoyage
+      charges indispensables des services tels que les petit-déjeuners, le nettoyage
       de l'appartement, l'internet fibre...
     - Résidence Georges Mathé (VJ) [3]_ : cette résidence propose des T1 et T1bis à un 
-      loyer correct Cependant, elle n'a été construite que très récemment, nous 
-      n'avons donc que peu de retours. Néamoins, il est à noter que la connexion
+      loyer correct. Cependant, elle n'a été construite que très récemment, nous 
+      n'avons donc que peu de retours. Néanmoins, il est à noter que la connexion
       internet est en supplément.
     - Résidence Porte d'Italie (KB) [4]_ : parfait lorsque l'on se trouve en cycle
       ingénieur, elle est située à une centaine de mètres de la ligne 7 et propose
@@ -224,7 +224,6 @@ Où se trouvent les locaux de l'administration de l'école ?
 
 
 Quelles sont les personnes de l'administration à contacter ?
-
     - Pour la période de cycle préparatoire :
 
       - Justifications d'absences et retards : Alain Delage,
@@ -309,60 +308,59 @@ Comment devenir assistant ?
       suivre et vous passerez des entretiens et un QCM technique.
 
 Quelles sont les différentes majeures ?
-
     Lors du second semestre d'ING2, les élèves sont amenés à choisir une majeure
     en fonction de goûts et projet professionnel. Ces dernières sont 
     actuellement au nombre de 8 :
 
     - GISTRE (Génie Informatique des Systèmes Temps Réels et Embarqués) :
-      C'est une majeure centrée sur toutes les problématiques liées à l'embarqué 
+      c'est une majeure centrée sur toutes les problématiques liées à l'embarqué 
       et au temps réel.
-      Les matières abordées dans cette majeure sont utlisées dans des domaines 
-      tels que les l'aéronotique, l'automobile, l'industrie spécialisée...
+      Les matières abordées dans cette majeure sont utilisées dans des domaines 
+      tels que les l'aéronautique, l'automobile, l'industrie spécialisée...
       Au niveau des matières il y a de la robotique, de l'architecture, des 
       enseignements centrés sur les problématiques de l'embarqué, du développement 
       bas niveau (assembleur, C).
 
     - SCIA (Sciences Cognitives et Informatique Avancée) :
-      Cette majeure demande des connaissances pointues et une certaine aisance 
+      cette majeure demande des connaissances pointues et une certaine aisance 
       en maths.
-      Les compétences en informatique sont également nécessaire car la majeure 
-      s'inscrit dans la continuité de l'ING1 en termes de langages étudiés.
-      Elle traite de sujets comme l'intelligence artificielle, la robotique...
+      De bonnes compétences en informatique sont également nécessaires car la 
+      majeure s'inscrit dans la continuité de l'ING1 en matière de langages étudiés.
+      Elle traite des sujets comme l'intelligence artificielle, la robotique...
 
     - SRS : Systèmes, Réseaux et Sécurité
-      Les compétences en informatiques sont vraiment indispensables car de 
+      les compétences en informatique sont vraiment indispensables car de 
       nombreux projets sont réalisés sur cette base.
       Les matières enseignées tournent autour de la sécurité des systèmes et de 
-      la gestion des risques qui y sont liés.
+      la gestion des risques associés.
       
     - SIGL (Systèmes d'Information et Génie Logiciel) :
-      Les enseignements sont centrés autour de l'ensemble des problématiques liées 
+      les enseignements sont centrés autour de l'ensemble des problématiques liées 
       aux systèmes d'information.
-      Pour ce qui est des matières enseignées : Architecture, Big data, Génie Logiciel 
-      Assisté par Ordinateur, Cours de qualité, Gestion de projet.
+      Pour ce qui est des matières enseignées : architecture, big data, Génie logiciel 
+      assisté par ordinateur, cours de qualité, gestion de projet.
       
     - MTI : (Multimédias et Technologies de l'information)
-      Les enseignements tournent autour des langages informatiques liés aux "nouveaux" 
+      les enseignements tournent autour des langages informatiques liés aux "nouveaux" 
       acteurs du numérique (Android, iOS pour Apple et Windows), aux langages liés 
       aux sites web (Javascript, PHP) et aux langages encore fortement utilisés 
       de nos jours tels que le Java (J2E).
       
     - CSI : (Calcul Scientifique et Image) :
-      Cette majeure est orientée vers la recherche académique sur des thèmes liés au
+      cette majeure est orientée vers la recherche académique sur des thèmes liés au
       traitement d'images et de la parole, à la manipulation d'automates.
       Les étudiants travaillent en parallèle pour la grande majorité dans le laboratoire 
       de recherche de l'école (LRDE).
       Certains étudiants de cette majeure poursuivent leurs études vers un doctorat afin
-      de pouvoir effectuer un métier lié à a recherche.
+      de pouvoir effectuer un métier lié à la recherche.
       
     - GITM (Global IT Management) : 
-      Les enseignements de cette majeure sont dispensés en anglais.
+      les enseignements de cette majeure sont dispensés en anglais.
       Les enseignements étaient centrés sur les problématiques de maitrise d'oeuvre et 
-      d'ouvrage avec pour ambition de former des ingénieurs d'affaire et consultants.
+      d'ouvrage avec pour ambition de former des ingénieurs d'affaires et des consultants.
 
     - TCOM : Télécom et Réseaux :
-      Cette majeure a pour vocation de former des managers dans le domaine de la 
+      cette majeure a pour vocation de former des managers dans le domaine de la 
       téléphonie et des réseaux. Pour ce qui est des matières enseignées : VoIP, Réseaux, 
       Télécom, C
 
