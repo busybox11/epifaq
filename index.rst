@@ -45,7 +45,7 @@ Table des matières
 Crédits
 -------
 
-Liste des contributeurs à cette FAQ :
+Liste des contributeurs de cette FAQ :
 
 - Pierre Bourdon (promo 2013)
 - Pierre-Marie de Rodat (promo 2013)
